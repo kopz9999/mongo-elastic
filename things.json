@@ -1,0 +1,4432 @@
+{
+   "system_info":{
+      "name":"DESKTOP-SIJORQE",
+      "domain":"WORKGROUP",
+      "manufacturer":"Microsoft Corporation",
+      "model":"Surface Book"
+   },
+   "memory":{
+      "total_physical_mb":15.927837371826172,
+      "free_physical_mb":6.87750244140625,
+      "used_physical_mb":9.050334930419922,
+      "total_virtual_mb":23.638290405273438,
+      "free_virtual_mb":8.196685791015625,
+      "used_virtual_mb":15.441604614257812
+   },
+   "network_adapters":[
+      {
+         "dhcp_nabled":true,
+         "ip_address":{
+            "value":[
+               "192.168.1.181",
+               "fe80::188:459c:e87e:ca5b"
+            ],
+            "Count":2
+         },
+         "default_gateway":"192.168.1.1",
+         "dns_domain":"socal.rr.com",
+         "description":"Hyper-V Virtual Ethernet Adapter #3",
+         "index":8
+      },
+      {
+         "dhcp_nabled":false,
+         "ip_address":{
+            "value":[
+               "10.0.75.1",
+               "fe80::f553:26ff:4d48:4f2c"
+            ],
+            "Count":2
+         },
+         "default_gateway":null,
+         "dns_domain":null,
+         "description":"Hyper-V Virtual Ethernet Adapter",
+         "index":9
+      },
+      {
+         "dhcp_nabled":true,
+         "ip_address":{
+            "value":[
+               "172.26.32.1",
+               "fe80::f872:77e0:3b1:8020"
+            ],
+            "Count":2
+         },
+         "default_gateway":null,
+         "dns_domain":null,
+         "description":"Hyper-V Virtual Ethernet Adapter #2",
+         "index":10
+      },
+      {
+         "dhcp_nabled":true,
+         "ip_address":{
+            "value":[
+               "172.19.149.81",
+               "fe80::f046:143d:7c4e:2f69"
+            ],
+            "Count":2
+         },
+         "default_gateway":null,
+         "dns_domain":null,
+         "description":"Hyper-V Virtual Ethernet Adapter #4",
+         "index":14
+      }
+   ],
+   "udp_ports":[
+      {
+         "port":"53",
+         "process_name":"svchost",
+         "local_address":"0.0.0.0",
+         "process_id":"6696"
+      },
+      {
+         "port":"3163",
+         "process_name":"agent",
+         "local_address":"0.0.0.0",
+         "process_id":"4556"
+      },
+      {
+         "port":"3163",
+         "process_name":"agent",
+         "local_address":"0.0.0.0",
+         "process_id":"4556"
+      },
+      {
+         "port":"3163",
+         "process_name":"agent",
+         "local_address":"0.0.0.0",
+         "process_id":"4556"
+      },
+      {
+         "port":"3163",
+         "process_name":"agent",
+         "local_address":"0.0.0.0",
+         "process_id":"4556"
+      },
+      {
+         "port":"3163",
+         "process_name":"agent",
+         "local_address":"0.0.0.0",
+         "process_id":"4556"
+      },
+      {
+         "port":"3389",
+         "process_name":"svchost",
+         "local_address":"0.0.0.0",
+         "process_id":"1428"
+      },
+      {
+         "port":"5050",
+         "process_name":"svchost",
+         "local_address":"0.0.0.0",
+         "process_id":"9088"
+      },
+      {
+         "port":"5353",
+         "process_name":"chrome",
+         "local_address":"0.0.0.0",
+         "process_id":"16776"
+      },
+      {
+         "port":"5353",
+         "process_name":"chrome",
+         "local_address":"0.0.0.0",
+         "process_id":"16776"
+      },
+      {
+         "port":"5353",
+         "process_name":"Spotify",
+         "local_address":"0.0.0.0",
+         "process_id":"1380"
+      },
+      {
+         "port":"5353",
+         "process_name":"chrome",
+         "local_address":"0.0.0.0",
+         "process_id":"16776"
+      },
+      {
+         "port":"5353",
+         "process_name":"chrome",
+         "local_address":"0.0.0.0",
+         "process_id":"16776"
+      },
+      {
+         "port":"5353",
+         "process_name":"chrome",
+         "local_address":"0.0.0.0",
+         "process_id":"16776"
+      },
+      {
+         "port":"5353",
+         "process_name":"chrome",
+         "local_address":"0.0.0.0",
+         "process_id":"16776"
+      },
+      {
+         "port":"5353",
+         "process_name":"chrome",
+         "local_address":"0.0.0.0",
+         "process_id":"16776"
+      },
+      {
+         "port":"5353",
+         "process_name":"svchost",
+         "local_address":"0.0.0.0",
+         "process_id":"3200"
+      },
+      {
+         "port":"5353",
+         "process_name":"chrome",
+         "local_address":"0.0.0.0",
+         "process_id":"16776"
+      },
+      {
+         "port":"5355",
+         "process_name":"svchost",
+         "local_address":"0.0.0.0",
+         "process_id":"3200"
+      },
+      {
+         "port":"53934",
+         "process_name":"Spotify",
+         "local_address":"0.0.0.0",
+         "process_id":"1380"
+      },
+      {
+         "port":"54077",
+         "process_name":"svchost",
+         "local_address":"0.0.0.0",
+         "process_id":"6696"
+      },
+      {
+         "port":"54078",
+         "process_name":"svchost",
+         "local_address":"0.0.0.0",
+         "process_id":"6696"
+      },
+      {
+         "port":"57621",
+         "process_name":"Spotify",
+         "local_address":"0.0.0.0",
+         "process_id":"1380"
+      },
+      {
+         "port":"60242",
+         "process_name":"mDNSResponder",
+         "local_address":"0.0.0.0",
+         "process_id":"4404"
+      },
+      {
+         "port":"137",
+         "process_name":"System",
+         "local_address":"10.0.75.1",
+         "process_id":"4"
+      },
+      {
+         "port":"138",
+         "process_name":"System",
+         "local_address":"10.0.75.1",
+         "process_id":"4"
+      },
+      {
+         "port":"1900",
+         "process_name":"svchost",
+         "local_address":"10.0.75.1",
+         "process_id":"3696"
+      },
+      {
+         "port":"5353",
+         "process_name":"mDNSResponder",
+         "local_address":"10.0.75.1",
+         "process_id":"4404"
+      },
+      {
+         "port":"54074",
+         "process_name":"svchost",
+         "local_address":"10.0.75.1",
+         "process_id":"3696"
+      },
+      {
+         "port":"1900",
+         "process_name":"svchost",
+         "local_address":"127.0.0.1",
+         "process_id":"3696"
+      },
+      {
+         "port":"54076",
+         "process_name":"svchost",
+         "local_address":"127.0.0.1",
+         "process_id":"3696"
+      },
+      {
+         "port":"55444",
+         "process_name":"iTunesHelper",
+         "local_address":"127.0.0.1",
+         "process_id":"3952"
+      },
+      {
+         "port":"55445",
+         "process_name":"iTunesHelper",
+         "local_address":"127.0.0.1",
+         "process_id":"3952"
+      },
+      {
+         "port":"60180",
+         "process_name":"AppleMobileDeviceService",
+         "local_address":"127.0.0.1",
+         "process_id":"4440"
+      },
+      {
+         "port":"60181",
+         "process_name":"AppleMobileDeviceService",
+         "local_address":"127.0.0.1",
+         "process_id":"4440"
+      },
+      {
+         "port":"60252",
+         "process_name":"svchost",
+         "local_address":"127.0.0.1",
+         "process_id":"5136"
+      },
+      {
+         "port":"67",
+         "process_name":"svchost",
+         "local_address":"172.19.149.81",
+         "process_id":"6696"
+      },
+      {
+         "port":"68",
+         "process_name":"svchost",
+         "local_address":"172.19.149.81",
+         "process_id":"6696"
+      },
+      {
+         "port":"1900",
+         "process_name":"svchost",
+         "local_address":"172.19.149.81",
+         "process_id":"3696"
+      },
+      {
+         "port":"5353",
+         "process_name":"mDNSResponder",
+         "local_address":"172.19.149.81",
+         "process_id":"4404"
+      },
+      {
+         "port":"54073",
+         "process_name":"svchost",
+         "local_address":"172.19.149.81",
+         "process_id":"3696"
+      },
+      {
+         "port":"137",
+         "process_name":"System",
+         "local_address":"172.26.32.1",
+         "process_id":"4"
+      },
+      {
+         "port":"138",
+         "process_name":"System",
+         "local_address":"172.26.32.1",
+         "process_id":"4"
+      },
+      {
+         "port":"1900",
+         "process_name":"svchost",
+         "local_address":"172.26.32.1",
+         "process_id":"3696"
+      },
+      {
+         "port":"5353",
+         "process_name":"mDNSResponder",
+         "local_address":"172.26.32.1",
+         "process_id":"4404"
+      },
+      {
+         "port":"54072",
+         "process_name":"svchost",
+         "local_address":"172.26.32.1",
+         "process_id":"3696"
+      },
+      {
+         "port":"137",
+         "process_name":"System",
+         "local_address":"192.168.1.181",
+         "process_id":"4"
+      },
+      {
+         "port":"138",
+         "process_name":"System",
+         "local_address":"192.168.1.181",
+         "process_id":"4"
+      },
+      {
+         "port":"1900",
+         "process_name":"svchost",
+         "local_address":"192.168.1.181",
+         "process_id":"3696"
+      },
+      {
+         "port":"5353",
+         "process_name":"mDNSResponder",
+         "local_address":"192.168.1.181",
+         "process_id":"4404"
+      },
+      {
+         "port":"54075",
+         "process_name":"svchost",
+         "local_address":"192.168.1.181",
+         "process_id":"3696"
+      },
+      {
+         "port":"1900",
+         "process_name":"svchost",
+         "local_address":"[fe80::188:459c:e87e:ca5b%14]",
+         "process_id":"3696"
+      },
+      {
+         "port":"54070",
+         "process_name":"svchost",
+         "local_address":"[fe80::188:459c:e87e:ca5b%14]",
+         "process_id":"3696"
+      },
+      {
+         "port":"1900",
+         "process_name":"svchost",
+         "local_address":"[fe80::f046:143d:7c4e:2f69%16]",
+         "process_id":"3696"
+      },
+      {
+         "port":"54068",
+         "process_name":"svchost",
+         "local_address":"[fe80::f046:143d:7c4e:2f69%16]",
+         "process_id":"3696"
+      },
+      {
+         "port":"1900",
+         "process_name":"svchost",
+         "local_address":"[fe80::f553:26ff:4d48:4f2c%5]",
+         "process_id":"3696"
+      },
+      {
+         "port":"54069",
+         "process_name":"svchost",
+         "local_address":"[fe80::f553:26ff:4d48:4f2c%5]",
+         "process_id":"3696"
+      },
+      {
+         "port":"1900",
+         "process_name":"svchost",
+         "local_address":"[fe80::f872:77e0:3b1:8020%6]",
+         "process_id":"3696"
+      },
+      {
+         "port":"54067",
+         "process_name":"svchost",
+         "local_address":"[fe80::f872:77e0:3b1:8020%6]",
+         "process_id":"3696"
+      }
+   ],
+   "group_policy":{
+      "computer_results":[
+
+      ],
+      "user_results":[
+
+      ]
+   },
+   "software_x64":[
+      {
+         "name":"SoapUI 5.3.0 5.3.0",
+         "version":"5.3.0",
+         "Publisher":"SmartBear Software",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\Program Files (x86)\\SmartBear\\SoapUI-5.3.0\\uninstall.exe\""
+      },
+      {
+         "name":"Adobe Creative Cloud",
+         "version":"4.0.1.188",
+         "Publisher":"Adobe Systems Incorporated",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\Program Files (x86)\\Adobe\\Adobe Creative Cloud\\Utils\\Creative Cloud Uninstaller.exe\""
+      },
+      {
+         "name":"Citrix Receiver",
+         "version":"14.1.0.0",
+         "Publisher":"Citrix Systems, Inc.",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"C:\\ProgramData\\Citrix\\Citrix Receiver\\TrolleyExpress.exe /uninstall /cleanup"
+      },
+      {
+         "name":"FileZilla Client 3.30.0",
+         "version":"3.30.0",
+         "Publisher":"Tim Kosse",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"C:\\Program Files\\FileZilla FTP Client\\uninstall.exe"
+      },
+      {
+         "name":"Google Chrome",
+         "version":"63.0.3239.132",
+         "Publisher":"Google Inc.",
+         "install_date":"20170411Z",
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\63.0.3239.132\\Installer\\setup.exe\" --uninstall --system-level --verbose-logging"
+      },
+      {
+         "name":"Notepad++ (32-bit x86)",
+         "version":"7.4.2",
+         "Publisher":"Notepad++ Team",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"C:\\Program Files (x86)\\Notepad++\\uninstall.exe"
+      },
+      {
+         "name":"Adobe Photoshop CC 2017",
+         "version":"18.1.0",
+         "Publisher":"Adobe Systems Incorporated",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\Program Files (x86)\\Adobe\\Adobe Creative Cloud\\HDCore\\Uninstaller.exe\" --uninstall=1 --sapCode=PHSP --productVersion=18.1 --productPlatform=win64 --productAdobeCode={PHSP-18.1-64-ADBEADBEADBEADBEADBEADB} --productName=\"Photoshop CC (2017)\" --mode=2"
+      },
+      {
+         "name":"WinSCP 5.11.2",
+         "version":"5.11.2",
+         "Publisher":"Martin Prikryl",
+         "install_date":"20171016Z",
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\Program Files (x86)\\WinSCP\\unins000.exe\""
+      },
+      {
+         "name":"Citrix Receiver(Aero)",
+         "version":"14.1.0.0",
+         "Publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{012C59CF-074A-43DA-8085-B6E636733B59}"
+      },
+      {
+         "name":"WiX Toolset v3.10 Managed SDK",
+         "version":"3.10.3007",
+         "Publisher":".NET Foundation",
+         "install_date":"20170914Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{02016329-E985-4168-89CC-E3F4E383312E}v3.10.3007\\data\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{02016329-E985-4168-89CC-E3F4E383312E}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+         "version":"12.0.30501.0",
+         "Publisher":"Microsoft Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{050d4fc8-5d48-4b8f-8972-47c82c46020f}\\vcredist_x64.exe\"  /uninstall"
+      },
+      {
+         "name":"Apple Application Support (32-bit)",
+         "version":"5.4.1",
+         "Publisher":"Apple Inc.",
+         "install_date":"20170425Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\IXP340.TMP\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{05E07D23-91E9-4E70-A4CC-EF505088F967}"
+      },
+      {
+         "name":"Citrix Receiver(USB)",
+         "version":"14.1.0.0",
+         "Publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{0E1C5B43-1837-4F98-A96B-79A8A0A5955F}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+         "version":"12.0.21005",
+         "Publisher":"Microsoft Corporation",
+         "install_date":"20170411Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}v12.0.21005\\packages\\vcRuntimeMinimum_x86\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148",
+         "version":"9.0.30729.4148",
+         "Publisher":"Microsoft Corporation",
+         "install_date":"20170907Z",
+         "install_source":"c:\\1040c85a4e3a117e5f\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{1F1C2DFC-2D24-3E06-BCB8-725134ADF989}"
+      },
+      {
+         "name":"Python 3.6.4 Tcl/Tk Support (32-bit)",
+         "version":"3.6.4150.0",
+         "Publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{20888FA1-8127-42E3-969F-9BF93245AC83}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{20888FA1-8127-42E3-969F-9BF93245AC83}"
+      },
+      {
+         "name":"Remote Desktop Manager Free",
+         "version":"3.0.19.0",
+         "Publisher":"Devolutions inc.",
+         "install_date":"20170430Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Roaming\\Devolutions inc\\Remote Desktop Manager Free\\install\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{251272EF-CD75-490F-B5C8-7C7922EF6564}"
+      },
+      {
+         "name":"RES ONE Automation Agent",
+         "version":"10.2.0.0",
+         "Publisher":"RES Software Development B.V.",
+         "install_date":"20170901Z",
+         "install_source":"C:\\Users\\Mike\\Desktop\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{26F8DB8D-2C1D-4271-AA73-3334404816B4}"
+      },
+      {
+         "name":"Python 3.6.4 Standard Library (32-bit)",
+         "version":"3.6.4150.0",
+         "Publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{2832768E-9BCA-4421-950C-7186B3BDFC45}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{2832768E-9BCA-4421-950C-7186B3BDFC45}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24212",
+         "version":"14.0.24212.0",
+         "Publisher":"Microsoft Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{323dad84-0974-4d90-a1c1-e006c7fdbb7d}\\VC_redist.x64.exe\"  /uninstall"
+      },
+      {
+         "name":"Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030",
+         "version":"11.0.61030.0",
+         "Publisher":"Microsoft Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}\\vcredist_x86.exe\"  /uninstall"
+      },
+      {
+         "name":"Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24212",
+         "version":"14.0.24212",
+         "Publisher":"Microsoft Corporation",
+         "install_date":"20170907Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{37B55901-995A-3650-80B1-BBFD047E2911}v14.0.24212\\packages\\vcRuntimeMinimum_x86\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{37B55901-995A-3650-80B1-BBFD047E2911}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24212",
+         "version":"14.0.24212.0",
+         "Publisher":"Microsoft Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{462f63a8-6347-4894-a1b3-dbfe3a4c981d}\\VC_redist.x86.exe\"  /uninstall"
+      },
+      {
+         "name":"Self-service Plug-in",
+         "version":"4.1.0.41738",
+         "Publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{47117FCA-0D00-4B6D-9D68-00B763629463}"
+      },
+      {
+         "name":"Python 3.6.4 Executables (32-bit)",
+         "version":"3.6.4150.0",
+         "Publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{47A75DB9-F3F5-4697-9261-DBA5162DBB9E}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{47A75DB9-F3F5-4697-9261-DBA5162DBB9E}"
+      },
+      {
+         "name":"Snagit 13",
+         "version":"13.1.2.7933",
+         "Publisher":"TechSmith Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{507c35df-03b5-4452-a86c-f50425c2c6ab}\\Bootstrapper.exe\"  /uninstall"
+      },
+      {
+         "name":"RESONEManagement",
+         "version":"1.0.0.1",
+         "Publisher":"RES Software",
+         "install_date":"20170814Z",
+         "install_source":"C:\\Users\\Mike\\OneDrive - RES\\Building Blocks\\TechSummitSchedule\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{509072E0-64F7-4B97-B561-8456858791E7}"
+      },
+      {
+         "name":"Apple Software Update",
+         "version":"2.3.0.177",
+         "Publisher":"Apple Inc.",
+         "install_date":"20170425Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\IXP340.TMP\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{52D87F32-70E4-4348-8148-C0B9F35B1314}"
+      },
+      {
+         "name":"Python 3.6.4 pip Bootstrap (32-bit)",
+         "version":"3.6.4150.0",
+         "Publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{54142B43-2FA5-4BBA-BF03-27C10EB50C1E}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{54142B43-2FA5-4BBA-BF03-27C10EB50C1E}"
+      },
+      {
+         "name":"Camtasia 9",
+         "version":"9.0.4.1948",
+         "Publisher":"TechSmith Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{5957dd25-bb4e-4234-9dc0-b3e10a70f636}\\CamtasiaInstaller_ENU.exe\"  /uninstall"
+      },
+      {
+         "name":"Citrix Receiver Updater",
+         "version":"4.1.0.56461",
+         "Publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{5E8AC853-65BB-4C99-A09E-19B81851E14C}"
+      },
+      {
+         "name":"Google Update Helper",
+         "version":"1.3.33.7",
+         "Publisher":"Google Inc.",
+         "install_date":"20171226Z",
+         "install_source":"C:\\Program Files (x86)\\Google\\Update\\1.3.33.7\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}"
+      },
+      {
+         "name":"RES ONE Workspace Console",
+         "version":"10.1.0.0",
+         "Publisher":"RES Software Development B.V.",
+         "install_date":"20170606Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Roaming\\RES Software Development B.V\\RES ONE Workspace Installer\\prerequisites\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{6C3683DE-A9F3-4BFA-BDF4-337860D52039}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2005 Redistributable",
+         "version":"8.0.56336",
+         "Publisher":"Microsoft Corporation",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\IXP001.TMP\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{7299052b-02a4-4627-81f2-1818da5d550d}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24212",
+         "version":"14.0.24212",
+         "Publisher":"Microsoft Corporation",
+         "install_date":"20170907Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{844ECB74-9B63-3D5C-958C-30BD23F19EE4}v14.0.24212\\packages\\vcRuntimeAdditional_x86\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{844ECB74-9B63-3D5C-958C-30BD23F19EE4}"
+      },
+      {
+         "name":"RES ONE Automation Console",
+         "version":"10.2.0.0",
+         "Publisher":"RES Software Development B.V.",
+         "install_date":"20170606Z",
+         "install_source":"\\\\dc.resone.cloud\\c$\\Users\\Administrator\\Documents\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{8BC2DC01-91F6-4464-BBD5-5A41E3B13DE8}"
+      },
+      {
+         "name":".NET Core SDK 1.0.0 (x64) Installer (x64)",
+         "version":"1.0.0.4933",
+         "Publisher":"Microsoft Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{8fe392bf-0b19-443f-adb7-e067b7449e99}\\dotnet-dev-win-x64.1.0.0-rc4-004933.exe\"  /uninstall"
+      },
+      {
+         "name":"Office 16 Click-to-Run Extensibility Component",
+         "version":"16.0.8431.2153",
+         "Publisher":"Microsoft Corporation",
+         "install_date":"20180123Z",
+         "install_source":"c:\\program files (x86)\\microsoft office\\root\\integration\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{90160000-008C-0000-0000-0000000FF1CE}"
+      },
+      {
+         "name":"Office 16 Click-to-Run Localization Component",
+         "version":"16.0.8431.2079",
+         "Publisher":"Microsoft Corporation",
+         "install_date":"20170918Z",
+         "install_source":"c:\\program files (x86)\\microsoft office\\root\\integration\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{90160000-008C-0409-0000-0000000FF1CE}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+         "version":"9.0.30729",
+         "Publisher":"Microsoft Corporation",
+         "install_date":"20170411Z",
+         "install_source":"c:\\07fcfc999e138aefd4817144e0d6c59b\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{9A25302D-30C0-39D9-BD6F-21E6EC160475}"
+      },
+      {
+         "name":"Citrix Receiver(DV)",
+         "version":"14.1.0.0",
+         "Publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{ADE8A83D-BB70-4FB5-BA19-26C47EA31894}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030",
+         "version":"11.0.61030",
+         "Publisher":"Microsoft Corporation",
+         "install_date":"20170411Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{B175520C-86A2-35A7-8619-86DC379688B9}v11.0.61030\\packages\\vcRuntimeAdditional_x86\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{B175520C-86A2-35A7-8619-86DC379688B9}"
+      },
+      {
+         "name":"Python Launcher",
+         "version":"3.6.6196.0",
+         "Publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{B42FF40A-60D4-4096-AC47-C86153D72797}v3.6.6196.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{B42FF40A-60D4-4096-AC47-C86153D72797}"
+      },
+      {
+         "name":"WiX Toolset v3.10 Core",
+         "version":"3.10.3007",
+         "Publisher":".NET Foundation",
+         "install_date":"20170914Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{B516AA1C-8356-42F0-926A-8BC401FCD6CE}v3.10.3007\\data\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{B516AA1C-8356-42F0-926A-8BC401FCD6CE}"
+      },
+      {
+         "name":"Python 3.6.4 Add to Path (32-bit)",
+         "version":"3.6.4150.0",
+         "Publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{B7F6071F-CC88-469C-9AC6-BEBA83594819}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{B7F6071F-CC88-469C-9AC6-BEBA83594819}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030",
+         "version":"11.0.61030",
+         "Publisher":"Microsoft Corporation",
+         "install_date":"20170411Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}v11.0.61030\\packages\\vcRuntimeMinimum_x86\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}"
+      },
+      {
+         "name":"Python 3.6.4 Development Libraries (32-bit)",
+         "version":"3.6.4150.0",
+         "Publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{C3797E33-967D-4687-8F1A-9DE771A00125}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{C3797E33-967D-4687-8F1A-9DE771A00125}"
+      },
+      {
+         "name":"Citrix Receiver (HDX Flash Redirection)",
+         "version":"14.1.0.0",
+         "Publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{C4E28723-0663-4012-9BDC-E21A14C1316C}"
+      },
+      {
+         "name":"Citrix Authentication Manager",
+         "version":"5.1.0.62606",
+         "Publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{CA55005D-94AC-4596-9646-679D6CC0D620}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+         "version":"11.0.61030.0",
+         "Publisher":"Microsoft Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{ca67548a-5ebe-413a-b50c-4b9ceb6d66c6}\\vcredist_x64.exe\"  /uninstall"
+      },
+      {
+         "name":"Python 3.6.4 Utility Scripts (32-bit)",
+         "version":"3.6.4150.0",
+         "Publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{D0730E44-E519-4F39-B926-E2FC0449D67C}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{D0730E44-E519-4F39-B926-E2FC0449D67C}"
+      },
+      {
+         "name":"Python 3.6.4 Test Suite (32-bit)",
+         "version":"3.6.4150.0",
+         "Publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{D14FB2FA-51B2-415C-93BF-5053102235EE}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{D14FB2FA-51B2-415C-93BF-5053102235EE}"
+      },
+      {
+         "name":"Python 3.6.4 Core Interpreter (32-bit)",
+         "version":"3.6.4150.0",
+         "Publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{D188614B-E656-4EF1-9F5A-23559EBE8F5A}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{D188614B-E656-4EF1-9F5A-23559EBE8F5A}"
+      },
+      {
+         "name":"WiX Toolset v3.10.3.3007",
+         "version":"3.10.3.3007",
+         "Publisher":".NET Foundation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{d812c5ae-99d2-4e55-b7f0-d73e687f1069}\\WiX310.exe\"  /uninstall"
+      },
+      {
+         "name":"Citrix Receiver Inside",
+         "version":"4.1.0.56471",
+         "Publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{D9EE360A-7C19-47EC-93C7-97DEFF64804B}"
+      },
+      {
+         "name":"Python 3.6.4 Documentation (32-bit)",
+         "version":"3.6.4150.0",
+         "Publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{E09874D3-E898-4AB6-B043-EE24DF786088}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{E09874D3-E898-4AB6-B043-EE24DF786088}"
+      },
+      {
+         "name":"AWS Tools for Windows",
+         "version":"3.9.339.0",
+         "Publisher":"Amazon Web Services Developer Relations",
+         "install_date":"20171019Z",
+         "install_source":"C:\\Windows\\Installer\\{E9EB545F-6DB1-42BD-BDF2-C08D753C781B}-RESWIS\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{E9EB545F-6DB1-42BD-BDF2-C08D753C781B}"
+      },
+      {
+         "name":"Snagit 13",
+         "version":"13.1.2",
+         "Publisher":"TechSmith Corporation",
+         "install_date":"20170427Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{EA84355E-0DCC-4A14-9ADC-FCF9ABF57EA8}v13.1.2\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{EA84355E-0DCC-4A14-9ADC-FCF9ABF57EA8}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+         "version":"10.0.40219",
+         "Publisher":"Microsoft Corporation",
+         "install_date":"20170411Z",
+         "install_source":"c:\\0a203fa6d0b0e22ed348a4\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}"
+      },
+      {
+         "name":"Online Plug-in",
+         "version":"14.1.0.0",
+         "Publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{F390D923-76F1-458E-8218-8C0C156CDCFD}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+         "version":"12.0.30501.0",
+         "Publisher":"Microsoft Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{f65db027-aff3-4070-886a-0d87064aabb1}\\vcredist_x86.exe\"  /uninstall"
+      },
+      {
+         "name":"Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+         "version":"12.0.21005",
+         "Publisher":"Microsoft Corporation",
+         "install_date":"20170411Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}v12.0.21005\\packages\\vcRuntimeAdditional_x86\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}"
+      }
+   ],
+   "tcp_ports":[
+      {
+         "local_address":"127.0.0.1",
+         "port":63135,
+         "process_id":18900
+      },
+      {
+         "local_address":"0.0.0.0",
+         "port":57911,
+         "process_id":1380,
+         "process_name":"Spotify"
+      },
+      {
+         "local_address":"0.0.0.0",
+         "port":57621,
+         "process_id":1380,
+         "process_name":"Spotify"
+      },
+      {
+         "local_address":"0.0.0.0",
+         "port":49902,
+         "process_id":876,
+         "process_name":"services"
+      },
+      {
+         "local_address":"0.0.0.0",
+         "port":49831,
+         "process_id":884,
+         "process_name":"lsass"
+      },
+      {
+         "local_address":"0.0.0.0",
+         "port":49668,
+         "process_id":3752,
+         "process_name":"spoolsv"
+      },
+      {
+         "local_address":"0.0.0.0",
+         "port":49667,
+         "process_id":2804,
+         "process_name":"svchost"
+      },
+      {
+         "local_address":"0.0.0.0",
+         "port":49666,
+         "process_id":2980,
+         "process_name":"svchost"
+      },
+      {
+         "local_address":"0.0.0.0",
+         "port":49665,
+         "process_id":1800,
+         "process_name":"svchost"
+      },
+      {
+         "local_address":"0.0.0.0",
+         "port":49664,
+         "process_id":804,
+         "process_name":"wininit"
+      },
+      {
+         "local_address":"127.0.0.1",
+         "port":27015,
+         "process_id":4440,
+         "process_name":"AppleMobileDeviceService"
+      },
+      {
+         "local_address":"127.0.0.1",
+         "port":8081,
+         "process_id":8960,
+         "process_name":"node"
+      },
+      {
+         "local_address":"127.0.0.1",
+         "port":8080,
+         "process_id":28200,
+         "process_name":"node"
+      },
+      {
+         "local_address":"127.0.0.1",
+         "port":5354,
+         "process_id":4404,
+         "process_name":"mDNSResponder"
+      },
+      {
+         "local_address":"172.26.32.1",
+         "port":5040,
+         "process_id":9088,
+         "process_name":"svchost"
+      },
+      {
+         "local_address":"172.19.149.81",
+         "port":5040,
+         "process_id":9088,
+         "process_name":"svchost"
+      },
+      {
+         "local_address":"10.0.75.1",
+         "port":5040,
+         "process_id":9088,
+         "process_name":"svchost"
+      },
+      {
+         "local_address":"127.0.0.1",
+         "port":4381,
+         "process_id":1380,
+         "process_name":"Spotify"
+      },
+      {
+         "local_address":"127.0.0.1",
+         "port":4380,
+         "process_id":13624,
+         "process_name":"SpotifyWebHelper"
+      },
+      {
+         "local_address":"0.0.0.0",
+         "port":3389,
+         "process_id":1428,
+         "process_name":"svchost"
+      },
+      {
+         "local_address":"0.0.0.0",
+         "port":2179,
+         "process_id":5124,
+         "process_name":"vmms"
+      },
+      {
+         "local_address":"192.168.1.181",
+         "port":139,
+         "process_id":4,
+         "process_name":"System"
+      },
+      {
+         "local_address":"172.26.32.1",
+         "port":139,
+         "process_id":4,
+         "process_name":"System"
+      },
+      {
+         "local_address":"10.0.75.1",
+         "port":139,
+         "process_id":4,
+         "process_name":"System"
+      },
+      {
+         "local_address":"0.0.0.0",
+         "port":135,
+         "process_id":948,
+         "process_name":"svchost"
+      },
+      {
+         "local_address":"0.0.0.0",
+         "port":22,
+         "process_id":5364,
+         "process_name":"svchost"
+      }
+   ],
+   "missing_updates":{
+      "is_downloaded":false,
+      "title":"Definition Update for Windows Defender Antivirus - KB2267602 (Definition 1.261.855.0)",
+      "category":"Definition Updates",
+      "type":1,
+      "kb":"KB2267602"
+   },
+   "windows_updates":[
+      {
+         "hot_fix_id":null,
+         "Title":"Definition Update for Windows Defender Antivirus - KB2267602 (Definition 1.261.848.0)",
+         "operation":"install",
+         "status":"succeeded",
+         "date":"20180207T1213590000Z"
+      },
+      {
+         "hot_fix_id":null,
+         "Title":"Definition Update for Windows Defender Antivirus - KB2267602 (Definition 1.261.757.0)",
+         "operation":"install",
+         "status":"succeeded",
+         "date":"20180205T1017270000Z"
+      },
+      {
+         "hot_fix_id":null,
+         "Title":"Definition Update for Windows Defender Antivirus - KB2267602 (Definition 1.261.747.0)",
+         "operation":"install",
+         "status":"succeeded",
+         "date":"20180204T2221330000Z"
+      },
+      {
+         "hot_fix_id":null,
+         "Title":"Definition Update for Windows Defender Antivirus - KB2267602 (Definition 1.261.734.0)",
+         "operation":"install",
+         "status":"succeeded",
+         "date":"20180204T0828100000Z"
+      },
+      {
+         "hot_fix_id":null,
+         "Title":"Definition Update for Windows Defender Antivirus - KB2267602 (Definition 1.261.665.0)",
+         "operation":"install",
+         "status":"succeeded",
+         "date":"20180202T1714540000Z"
+      },
+      {
+         "hot_fix_id":null,
+         "Title":"Definition Update for Windows Defender Antivirus - KB2267602 (Definition 1.261.654.0)",
+         "operation":"install",
+         "status":"succeeded",
+         "date":"20180202T1638570000Z"
+      },
+      {
+         "hot_fix_id":null,
+         "Title":"Definition Update for Windows Defender Antivirus - KB2267602 (Definition 1.261.558.0)",
+         "operation":"install",
+         "status":"succeeded",
+         "date":"20180131T1714480000Z"
+      },
+      {
+         "hot_fix_id":null,
+         "Title":"Definition Update for Windows Defender Antivirus - KB2267602 (Definition 1.261.554.0)",
+         "operation":"install",
+         "status":"succeeded",
+         "date":"20180131T1626170000Z"
+      },
+      {
+         "hot_fix_id":null,
+         "Title":"Definition Update for Windows Defender Antivirus - KB2267602 (Definition 1.261.485.0)",
+         "operation":"install",
+         "status":"succeeded",
+         "date":"20180130T1714540000Z"
+      },
+      {
+         "hot_fix_id":null,
+         "Title":"Definition Update for Windows Defender Antivirus - KB2267602 (Definition 1.261.427.0)",
+         "operation":"install",
+         "status":"succeeded",
+         "date":"20180129T1709470000Z"
+      },
+      {
+         "hot_fix_id":null,
+         "Title":"Definition Update for Windows Defender Antivirus - KB2267602 (Definition 1.261.424.0)",
+         "operation":"install",
+         "status":"succeeded",
+         "date":"20180129T1601520000Z"
+      },
+      {
+         "hot_fix_id":null,
+         "Title":"2018-01 Security Update for Adobe Flash Player for Windows 10 Version 1709 for x64-based Systems (KB4056887)",
+         "operation":"install",
+         "status":"succeeded",
+         "date":"20180129T1601410000Z"
+      },
+      {
+         "hot_fix_id":null,
+         "Title":"Update for Windows 10 Version 1709 for x64-based Systems (KB4041994)",
+         "operation":"install",
+         "status":"succeeded",
+         "date":"20180129T1601070000Z"
+      },
+      {
+         "hot_fix_id":null,
+         "Title":"2018-01 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4056892)",
+         "operation":"install",
+         "status":"succeeded",
+         "date":"20180129T1600580000Z"
+      },
+      {
+         "hot_fix_id":null,
+         "Title":"Feature update to Windows 10, version 1709",
+         "operation":"install",
+         "status":"succeeded",
+         "date":"20180129T0943120000Z"
+      }
+   ],
+   "pending_reboots":{
+      "file_rename":true,
+      "component_based_servicing":false,
+      "sccm_client":false,
+      "computer_rename":false,
+      "windows_update":false
+   },
+   "services":[
+      {
+         "name":"AdobeUpdateService",
+         "display_name":"AdobeUpdateService",
+         "status":"Running"
+      },
+      {
+         "name":"AGSService",
+         "display_name":"Adobe Genuine Software Integrity Service",
+         "status":"Running"
+      },
+      {
+         "name":"AJRouter",
+         "display_name":"AllJoyn Router Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"ALG",
+         "display_name":"Application Layer Gateway Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"AppIDSvc",
+         "display_name":"Application Identity",
+         "status":"Stopped"
+      },
+      {
+         "name":"Appinfo",
+         "display_name":"Application Information",
+         "status":"Running"
+      },
+      {
+         "name":"Apple Mobile Device Service",
+         "display_name":"Apple Mobile Device Service",
+         "status":"Running"
+      },
+      {
+         "name":"AppMgmt",
+         "display_name":"Application Management",
+         "status":"Stopped"
+      },
+      {
+         "name":"AppReadiness",
+         "display_name":"App Readiness",
+         "status":"Stopped"
+      },
+      {
+         "name":"AppVClient",
+         "display_name":"Microsoft App-V Client",
+         "status":"Stopped"
+      },
+      {
+         "name":"AppXSvc",
+         "display_name":"AppX Deployment Service (AppXSVC)",
+         "status":"Stopped"
+      },
+      {
+         "name":"AssignedAccessManagerSvc",
+         "display_name":"AssignedAccessManager Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"AudioEndpointBuilder",
+         "display_name":"Windows Audio Endpoint Builder",
+         "status":"Running"
+      },
+      {
+         "name":"Audiosrv",
+         "display_name":"Windows Audio",
+         "status":"Running"
+      },
+      {
+         "name":"AxInstSV",
+         "display_name":"ActiveX Installer (AxInstSV)",
+         "status":"Stopped"
+      },
+      {
+         "name":"BDESVC",
+         "display_name":"BitLocker Drive Encryption Service",
+         "status":"Running"
+      },
+      {
+         "name":"BFE",
+         "display_name":"Base Filtering Engine",
+         "status":"Running"
+      },
+      {
+         "name":"BITS",
+         "display_name":"Background Intelligent Transfer Service",
+         "status":"Running"
+      },
+      {
+         "name":"Bonjour Service",
+         "display_name":"Bonjour Service",
+         "status":"Running"
+      },
+      {
+         "name":"BrokerInfrastructure",
+         "display_name":"Background Tasks Infrastructure Service",
+         "status":"Running"
+      },
+      {
+         "name":"Browser",
+         "display_name":"Computer Browser",
+         "status":"Stopped"
+      },
+      {
+         "name":"BthHFSrv",
+         "display_name":"Bluetooth Handsfree Service",
+         "status":"Running"
+      },
+      {
+         "name":"bthserv",
+         "display_name":"Bluetooth Support Service",
+         "status":"Running"
+      },
+      {
+         "name":"camsvc",
+         "display_name":"Capability Access Manager Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"CDPSvc",
+         "display_name":"Connected Devices Platform Service",
+         "status":"Running"
+      },
+      {
+         "name":"CDPUserSvc_7a167314",
+         "display_name":"Connected Devices Platform User Service_7a167314",
+         "status":"Running"
+      },
+      {
+         "name":"CertPropSvc",
+         "display_name":"Certificate Propagation",
+         "status":"Running"
+      },
+      {
+         "name":"ClickToRunSvc",
+         "display_name":"Microsoft Office Click-to-Run Service",
+         "status":"Running"
+      },
+      {
+         "name":"ClipSVC",
+         "display_name":"Client License Service (ClipSVC)",
+         "status":"Stopped"
+      },
+      {
+         "name":"CloudBerry Backup Service",
+         "display_name":"CloudBerry Backup Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"com.docker.service",
+         "display_name":"Docker for Windows Service",
+         "status":"Running"
+      },
+      {
+         "name":"COMSysApp",
+         "display_name":"COM+ System Application",
+         "status":"Stopped"
+      },
+      {
+         "name":"CoreMessagingRegistrar",
+         "display_name":"CoreMessaging",
+         "status":"Running"
+      },
+      {
+         "name":"cphs",
+         "display_name":"Intel(R) Content Protection HECI Service",
+         "status":"Running"
+      },
+      {
+         "name":"cplspcon",
+         "display_name":"Intel(R) Content Protection HDCP Service",
+         "status":"Running"
+      },
+      {
+         "name":"CryptSvc",
+         "display_name":"Cryptographic Services",
+         "status":"Running"
+      },
+      {
+         "name":"CscService",
+         "display_name":"Offline Files",
+         "status":"Stopped"
+      },
+      {
+         "name":"DcomLaunch",
+         "display_name":"DCOM Server Process Launcher",
+         "status":"Running"
+      },
+      {
+         "name":"debugregsvc",
+         "display_name":"debugregsvc",
+         "status":"Stopped"
+      },
+      {
+         "name":"defragsvc",
+         "display_name":"Optimize drives",
+         "status":"Stopped"
+      },
+      {
+         "name":"DeveloperToolsService",
+         "display_name":"Developer Tools Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"DeviceAssociationService",
+         "display_name":"Device Association Service",
+         "status":"Running"
+      },
+      {
+         "name":"DeviceInstall",
+         "display_name":"Device Install Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"DevicesFlowUserSvc_7a167314",
+         "display_name":"DevicesFlow_7a167314",
+         "status":"Stopped"
+      },
+      {
+         "name":"DevQueryBroker",
+         "display_name":"DevQuery Background Discovery Broker",
+         "status":"Running"
+      },
+      {
+         "name":"Dhcp",
+         "display_name":"DHCP Client",
+         "status":"Running"
+      },
+      {
+         "name":"diagnosticshub.standardcollector.service",
+         "display_name":"Microsoft (R) Diagnostics Hub Standard Collector Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"diagsvc",
+         "display_name":"Diagnostic Execution Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"DiagTrack",
+         "display_name":"Connected User Experiences and Telemetry",
+         "status":"Running"
+      },
+      {
+         "name":"DmEnrollmentSvc",
+         "display_name":"Device Management Enrollment Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"dmwappushservice",
+         "display_name":"dmwappushsvc",
+         "status":"Stopped"
+      },
+      {
+         "name":"Dnscache",
+         "display_name":"DNS Client",
+         "status":"Running"
+      },
+      {
+         "name":"DoSvc",
+         "display_name":"Delivery Optimization",
+         "status":"Running"
+      },
+      {
+         "name":"dot3svc",
+         "display_name":"Wired AutoConfig",
+         "status":"Stopped"
+      },
+      {
+         "name":"DPS",
+         "display_name":"Diagnostic Policy Service",
+         "status":"Running"
+      },
+      {
+         "name":"DsmSvc",
+         "display_name":"Device Setup Manager",
+         "status":"Stopped"
+      },
+      {
+         "name":"DsSvc",
+         "display_name":"Data Sharing Service",
+         "status":"Running"
+      },
+      {
+         "name":"DusmSvc",
+         "display_name":"Data Usage",
+         "status":"Running"
+      },
+      {
+         "name":"Eaphost",
+         "display_name":"Extensible Authentication Protocol",
+         "status":"Stopped"
+      },
+      {
+         "name":"EFS",
+         "display_name":"Encrypting File System (EFS)",
+         "status":"Stopped"
+      },
+      {
+         "name":"embeddedmode",
+         "display_name":"Embedded Mode",
+         "status":"Stopped"
+      },
+      {
+         "name":"EntAppSvc",
+         "display_name":"Enterprise App Management Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"EventLog",
+         "display_name":"Windows Event Log",
+         "status":"Running"
+      },
+      {
+         "name":"EventSystem",
+         "display_name":"COM+ Event System",
+         "status":"Running"
+      },
+      {
+         "name":"Fax",
+         "display_name":"Fax",
+         "status":"Stopped"
+      },
+      {
+         "name":"fdPHost",
+         "display_name":"Function Discovery Provider Host",
+         "status":"Stopped"
+      },
+      {
+         "name":"FDResPub",
+         "display_name":"Function Discovery Resource Publication",
+         "status":"Stopped"
+      },
+      {
+         "name":"fhsvc",
+         "display_name":"File History Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"FontCache",
+         "display_name":"Windows Font Cache Service",
+         "status":"Running"
+      },
+      {
+         "name":"FontCache3.0.0.0",
+         "display_name":"Windows Presentation Foundation Font Cache 3.0.0.0",
+         "status":"Stopped"
+      },
+      {
+         "name":"FrameServer",
+         "display_name":"Windows Camera Frame Server",
+         "status":"Running"
+      },
+      {
+         "name":"gpsvc",
+         "display_name":"Group Policy Client",
+         "status":"Stopped"
+      },
+      {
+         "name":"GraphicsPerfSvc",
+         "display_name":"GraphicsPerfSvc",
+         "status":"Stopped"
+      },
+      {
+         "name":"gupdate",
+         "display_name":"Google Update Service (gupdate)",
+         "status":"Stopped"
+      },
+      {
+         "name":"gupdatem",
+         "display_name":"Google Update Service (gupdatem)",
+         "status":"Stopped"
+      },
+      {
+         "name":"HgClientService",
+         "display_name":"Host Guardian Client Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"hidserv",
+         "display_name":"Human Interface Device Service",
+         "status":"Running"
+      },
+      {
+         "name":"hns",
+         "display_name":"Host Network Service",
+         "status":"Running"
+      },
+      {
+         "name":"HomeGroupListener",
+         "display_name":"HomeGroup Listener",
+         "status":"Stopped"
+      },
+      {
+         "name":"HomeGroupProvider",
+         "display_name":"HomeGroup Provider",
+         "status":"Stopped"
+      },
+      {
+         "name":"HvHost",
+         "display_name":"HV Host Service",
+         "status":"Running"
+      },
+      {
+         "name":"icssvc",
+         "display_name":"Windows Mobile Hotspot Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"IKEEXT",
+         "display_name":"IKE and AuthIP IPsec Keying Modules",
+         "status":"Stopped"
+      },
+      {
+         "name":"InstallService",
+         "display_name":"Windows Store Install Service",
+         "status":"Running"
+      },
+      {
+         "name":"IntelAudioService",
+         "display_name":"Intel(R) Audio Service",
+         "status":"Running"
+      },
+      {
+         "name":"iphlpsvc",
+         "display_name":"IP Helper",
+         "status":"Running"
+      },
+      {
+         "name":"iPod Service",
+         "display_name":"iPod Service",
+         "status":"Running"
+      },
+      {
+         "name":"IpxlatCfgSvc",
+         "display_name":"IP Translation Configuration Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"irmon",
+         "display_name":"Infrared monitor service",
+         "status":"Stopped"
+      },
+      {
+         "name":"KeyIso",
+         "display_name":"CNG Key Isolation",
+         "status":"Running"
+      },
+      {
+         "name":"KtmRm",
+         "display_name":"KtmRm for Distributed Transaction Coordinator",
+         "status":"Stopped"
+      },
+      {
+         "name":"LanmanServer",
+         "display_name":"Server",
+         "status":"Running"
+      },
+      {
+         "name":"LanmanWorkstation",
+         "display_name":"Workstation",
+         "status":"Running"
+      },
+      {
+         "name":"lfsvc",
+         "display_name":"Geolocation Service",
+         "status":"Running"
+      },
+      {
+         "name":"LicenseManager",
+         "display_name":"Windows License Manager Service",
+         "status":"Running"
+      },
+      {
+         "name":"lltdsvc",
+         "display_name":"Link-Layer Topology Discovery Mapper",
+         "status":"Stopped"
+      },
+      {
+         "name":"lmhosts",
+         "display_name":"TCP/IP NetBIOS Helper",
+         "status":"Running"
+      },
+      {
+         "name":"LSM",
+         "display_name":"Local Session Manager",
+         "status":"Running"
+      },
+      {
+         "name":"MapsBroker",
+         "display_name":"Downloaded Maps Manager",
+         "status":"Stopped"
+      },
+      {
+         "name":"MessagingService_7a167314",
+         "display_name":"MessagingService_7a167314",
+         "status":"Stopped"
+      },
+      {
+         "name":"MpsSvc",
+         "display_name":"Windows Defender Firewall",
+         "status":"Running"
+      },
+      {
+         "name":"MSDTC",
+         "display_name":"Distributed Transaction Coordinator",
+         "status":"Stopped"
+      },
+      {
+         "name":"MSiSCSI",
+         "display_name":"Microsoft iSCSI Initiator Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"msiserver",
+         "display_name":"Windows Installer",
+         "status":"Stopped"
+      },
+      {
+         "name":"NaturalAuthentication",
+         "display_name":"Natural Authentication",
+         "status":"Stopped"
+      },
+      {
+         "name":"NcaSvc",
+         "display_name":"Network Connectivity Assistant",
+         "status":"Stopped"
+      },
+      {
+         "name":"NcbService",
+         "display_name":"Network Connection Broker",
+         "status":"Running"
+      },
+      {
+         "name":"NcdAutoSetup",
+         "display_name":"Network Connected Devices Auto-Setup",
+         "status":"Stopped"
+      },
+      {
+         "name":"Netlogon",
+         "display_name":"Netlogon",
+         "status":"Stopped"
+      },
+      {
+         "name":"Netman",
+         "display_name":"Network Connections",
+         "status":"Stopped"
+      },
+      {
+         "name":"netprofm",
+         "display_name":"Network List Service",
+         "status":"Running"
+      },
+      {
+         "name":"NetSetupSvc",
+         "display_name":"Network Setup Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"NetTcpPortSharing",
+         "display_name":"Net.Tcp Port Sharing Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"NgcCtnrSvc",
+         "display_name":"Microsoft Passport Container",
+         "status":"Stopped"
+      },
+      {
+         "name":"NgcSvc",
+         "display_name":"Microsoft Passport",
+         "status":"Stopped"
+      },
+      {
+         "name":"NlaSvc",
+         "display_name":"Network Location Awareness",
+         "status":"Running"
+      },
+      {
+         "name":"nsi",
+         "display_name":"Network Store Interface Service",
+         "status":"Running"
+      },
+      {
+         "name":"NVDisplay.ContainerLocalSystem",
+         "display_name":"NVIDIA Display Container LS",
+         "status":"Running"
+      },
+      {
+         "name":"NvTelemetryContainer",
+         "display_name":"NVIDIA Telemetry Container",
+         "status":"Running"
+      },
+      {
+         "name":"OneSyncSvc_7a167314",
+         "display_name":"Sync Host_7a167314",
+         "status":"Running"
+      },
+      {
+         "name":"ose",
+         "display_name":"Office  Source Engine",
+         "status":"Stopped"
+      },
+      {
+         "name":"p2pimsvc",
+         "display_name":"Peer Networking Identity Manager",
+         "status":"Stopped"
+      },
+      {
+         "name":"p2psvc",
+         "display_name":"Peer Networking Grouping",
+         "status":"Stopped"
+      },
+      {
+         "name":"PcaSvc",
+         "display_name":"Program Compatibility Assistant Service",
+         "status":"Running"
+      },
+      {
+         "name":"PeerDistSvc",
+         "display_name":"BranchCache",
+         "status":"Stopped"
+      },
+      {
+         "name":"PerfHost",
+         "display_name":"Performance Counter DLL Host",
+         "status":"Stopped"
+      },
+      {
+         "name":"PhoneSvc",
+         "display_name":"Phone Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"PimIndexMaintenanceSvc_7a167314",
+         "display_name":"Contact Data_7a167314",
+         "status":"Running"
+      },
+      {
+         "name":"pla",
+         "display_name":"Performance Logs & Alerts",
+         "status":"Stopped"
+      },
+      {
+         "name":"PlugPlay",
+         "display_name":"Plug and Play",
+         "status":"Running"
+      },
+      {
+         "name":"PNRPAutoReg",
+         "display_name":"PNRP Machine Name Publication Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"PNRPsvc",
+         "display_name":"Peer Name Resolution Protocol",
+         "status":"Stopped"
+      },
+      {
+         "name":"PolicyAgent",
+         "display_name":"IPsec Policy Agent",
+         "status":"Running"
+      },
+      {
+         "name":"Power",
+         "display_name":"Power",
+         "status":"Running"
+      },
+      {
+         "name":"PrintNotify",
+         "display_name":"Printer Extensions and Notifications",
+         "status":"Stopped"
+      },
+      {
+         "name":"PrintWorkflowUserSvc_7a167314",
+         "display_name":"PrintWorkflow_7a167314",
+         "status":"Stopped"
+      },
+      {
+         "name":"ProfSvc",
+         "display_name":"User Profile Service",
+         "status":"Running"
+      },
+      {
+         "name":"PushToInstall",
+         "display_name":"Windows PushToInstall Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"QWAVE",
+         "display_name":"Quality Windows Audio Video Experience",
+         "status":"Stopped"
+      },
+      {
+         "name":"RasAuto",
+         "display_name":"Remote Access Auto Connection Manager",
+         "status":"Stopped"
+      },
+      {
+         "name":"RasMan",
+         "display_name":"Remote Access Connection Manager",
+         "status":"Running"
+      },
+      {
+         "name":"RemoteAccess",
+         "display_name":"Routing and Remote Access",
+         "status":"Stopped"
+      },
+      {
+         "name":"RemoteRegistry",
+         "display_name":"Remote Registry",
+         "status":"Stopped"
+      },
+      {
+         "name":"RES",
+         "display_name":"RES ONE Workspace Service",
+         "status":"Running"
+      },
+      {
+         "name":"RESWAS",
+         "display_name":"RES ONE Automation Agent",
+         "status":"Running"
+      },
+      {
+         "name":"RESWCS",
+         "display_name":"RES ONE Automation Console Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"RESWDS",
+         "display_name":"RES ONE Automation Dispatcher+",
+         "status":"Stopped"
+      },
+      {
+         "name":"RetailDemo",
+         "display_name":"Retail Demo Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"RmSvc",
+         "display_name":"Radio Management Service",
+         "status":"Running"
+      },
+      {
+         "name":"RpcEptMapper",
+         "display_name":"RPC Endpoint Mapper",
+         "status":"Running"
+      },
+      {
+         "name":"RpcLocator",
+         "display_name":"Remote Procedure Call (RPC) Locator",
+         "status":"Stopped"
+      },
+      {
+         "name":"RpcSs",
+         "display_name":"Remote Procedure Call (RPC)",
+         "status":"Running"
+      },
+      {
+         "name":"SamSs",
+         "display_name":"Security Accounts Manager",
+         "status":"Running"
+      },
+      {
+         "name":"SCardSvr",
+         "display_name":"Smart Card",
+         "status":"Stopped"
+      },
+      {
+         "name":"ScDeviceEnum",
+         "display_name":"Smart Card Device Enumeration Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"Schedule",
+         "display_name":"Task Scheduler",
+         "status":"Running"
+      },
+      {
+         "name":"SCPolicySvc",
+         "display_name":"Smart Card Removal Policy",
+         "status":"Stopped"
+      },
+      {
+         "name":"SDRSVC",
+         "display_name":"Windows Backup",
+         "status":"Stopped"
+      },
+      {
+         "name":"seclogon",
+         "display_name":"Secondary Logon",
+         "status":"Stopped"
+      },
+      {
+         "name":"SecurityHealthService",
+         "display_name":"Windows Defender Security Center Service",
+         "status":"Running"
+      },
+      {
+         "name":"SEMgrSvc",
+         "display_name":"Payments and NFC/SE Manager",
+         "status":"Running"
+      },
+      {
+         "name":"SENS",
+         "display_name":"System Event Notification Service",
+         "status":"Running"
+      },
+      {
+         "name":"Sense",
+         "display_name":"Windows Defender Advanced Threat Protection Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"SensorDataService",
+         "display_name":"Sensor Data Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"SensorService",
+         "display_name":"Sensor Service",
+         "status":"Running"
+      },
+      {
+         "name":"SensrSvc",
+         "display_name":"Sensor Monitoring Service",
+         "status":"Running"
+      },
+      {
+         "name":"SessionEnv",
+         "display_name":"Remote Desktop Configuration",
+         "status":"Running"
+      },
+      {
+         "name":"SharedAccess",
+         "display_name":"Internet Connection Sharing (ICS)",
+         "status":"Running"
+      },
+      {
+         "name":"SharedRealitySvc",
+         "display_name":"Spatial Data Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"ShellHWDetection",
+         "display_name":"Shell Hardware Detection",
+         "status":"Running"
+      },
+      {
+         "name":"shpamsvc",
+         "display_name":"Shared PC Account Manager",
+         "status":"Stopped"
+      },
+      {
+         "name":"smphost",
+         "display_name":"Microsoft Storage Spaces SMP",
+         "status":"Stopped"
+      },
+      {
+         "name":"SmsRouter",
+         "display_name":"Microsoft Windows SMS Router Service.",
+         "status":"Stopped"
+      },
+      {
+         "name":"SNMPTRAP",
+         "display_name":"SNMP Trap",
+         "status":"Stopped"
+      },
+      {
+         "name":"spectrum",
+         "display_name":"Windows Perception Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"Spooler",
+         "display_name":"Print Spooler",
+         "status":"Running"
+      },
+      {
+         "name":"sppsvc",
+         "display_name":"Software Protection",
+         "status":"Running"
+      },
+      {
+         "name":"SSDPSRV",
+         "display_name":"SSDP Discovery",
+         "status":"Running"
+      },
+      {
+         "name":"SshBroker",
+         "display_name":"SSH Server Broker",
+         "status":"Running"
+      },
+      {
+         "name":"SshProxy",
+         "display_name":"SSH Server Proxy",
+         "status":"Running"
+      },
+      {
+         "name":"SstpSvc",
+         "display_name":"Secure Socket Tunneling Protocol Service",
+         "status":"Running"
+      },
+      {
+         "name":"StateRepository",
+         "display_name":"State Repository Service",
+         "status":"Running"
+      },
+      {
+         "name":"stisvc",
+         "display_name":"Windows Image Acquisition (WIA)",
+         "status":"Stopped"
+      },
+      {
+         "name":"StorSvc",
+         "display_name":"Storage Service",
+         "status":"Running"
+      },
+      {
+         "name":"SurfaceDtxService",
+         "display_name":"Surface DTX Service",
+         "status":"Running"
+      },
+      {
+         "name":"SurfaceService",
+         "display_name":"Surface Integration Service",
+         "status":"Running"
+      },
+      {
+         "name":"SurfaceUsbHubFwUpdateService",
+         "display_name":"Surface USB Hub Firmware Update Service",
+         "status":"Running"
+      },
+      {
+         "name":"svsvc",
+         "display_name":"Spot Verifier",
+         "status":"Stopped"
+      },
+      {
+         "name":"swprv",
+         "display_name":"Microsoft Software Shadow Copy Provider",
+         "status":"Stopped"
+      },
+      {
+         "name":"SysMain",
+         "display_name":"Superfetch",
+         "status":"Running"
+      },
+      {
+         "name":"SystemEventsBroker",
+         "display_name":"System Events Broker",
+         "status":"Running"
+      },
+      {
+         "name":"TabletInputService",
+         "display_name":"Touch Keyboard and Handwriting Panel Service",
+         "status":"Running"
+      },
+      {
+         "name":"TapiSrv",
+         "display_name":"Telephony",
+         "status":"Stopped"
+      },
+      {
+         "name":"TechSmith Uploader Service",
+         "display_name":"TechSmith Uploader Service",
+         "status":"Running"
+      },
+      {
+         "name":"TermService",
+         "display_name":"Remote Desktop Services",
+         "status":"Running"
+      },
+      {
+         "name":"Themes",
+         "display_name":"Themes",
+         "status":"Running"
+      },
+      {
+         "name":"TieringEngineService",
+         "display_name":"Storage Tiers Management",
+         "status":"Stopped"
+      },
+      {
+         "name":"tiledatamodelsvc",
+         "display_name":"Tile Data model server",
+         "status":"Running"
+      },
+      {
+         "name":"TimeBrokerSvc",
+         "display_name":"Time Broker",
+         "status":"Running"
+      },
+      {
+         "name":"TokenBroker",
+         "display_name":"Web Account Manager",
+         "status":"Running"
+      },
+      {
+         "name":"TrkWks",
+         "display_name":"Distributed Link Tracking Client",
+         "status":"Running"
+      },
+      {
+         "name":"TrustedInstaller",
+         "display_name":"Windows Modules Installer",
+         "status":"Running"
+      },
+      {
+         "name":"tzautoupdate",
+         "display_name":"Auto Time Zone Updater",
+         "status":"Stopped"
+      },
+      {
+         "name":"UevAgentService",
+         "display_name":"User Experience Virtualization Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"UI0Detect",
+         "display_name":"Interactive Services Detection",
+         "status":"Stopped"
+      },
+      {
+         "name":"UmRdpService",
+         "display_name":"Remote Desktop Services UserMode Port Redirector",
+         "status":"Running"
+      },
+      {
+         "name":"UnistoreSvc_7a167314",
+         "display_name":"User Data Storage_7a167314",
+         "status":"Running"
+      },
+      {
+         "name":"upnphost",
+         "display_name":"UPnP Device Host",
+         "status":"Stopped"
+      },
+      {
+         "name":"UserDataSvc_7a167314",
+         "display_name":"User Data Access_7a167314",
+         "status":"Running"
+      },
+      {
+         "name":"UserManager",
+         "display_name":"User Manager",
+         "status":"Running"
+      },
+      {
+         "name":"UsoSvc",
+         "display_name":"Update Orchestrator Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"VaultSvc",
+         "display_name":"Credential Manager",
+         "status":"Running"
+      },
+      {
+         "name":"vds",
+         "display_name":"Virtual Disk",
+         "status":"Stopped"
+      },
+      {
+         "name":"vmcompute",
+         "display_name":"Hyper-V Host Compute Service",
+         "status":"Running"
+      },
+      {
+         "name":"vmicguestinterface",
+         "display_name":"Hyper-V Guest Service Interface",
+         "status":"Stopped"
+      },
+      {
+         "name":"vmicheartbeat",
+         "display_name":"Hyper-V Heartbeat Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"vmickvpexchange",
+         "display_name":"Hyper-V Data Exchange Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"vmicrdv",
+         "display_name":"Hyper-V Remote Desktop Virtualization Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"vmicshutdown",
+         "display_name":"Hyper-V Guest Shutdown Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"vmictimesync",
+         "display_name":"Hyper-V Time Synchronization Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"vmicvmsession",
+         "display_name":"Hyper-V PowerShell Direct Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"vmicvss",
+         "display_name":"Hyper-V Volume Shadow Copy Requestor",
+         "status":"Stopped"
+      },
+      {
+         "name":"vmms",
+         "display_name":"Hyper-V Virtual Machine Management",
+         "status":"Running"
+      },
+      {
+         "name":"VSS",
+         "display_name":"Volume Shadow Copy",
+         "status":"Stopped"
+      },
+      {
+         "name":"W32Time",
+         "display_name":"Windows Time",
+         "status":"Stopped"
+      },
+      {
+         "name":"WalletService",
+         "display_name":"WalletService",
+         "status":"Stopped"
+      },
+      {
+         "name":"WarpJITSvc",
+         "display_name":"WarpJITSvc",
+         "status":"Stopped"
+      },
+      {
+         "name":"wbengine",
+         "display_name":"Block Level Backup Engine Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"WbioSrvc",
+         "display_name":"Windows Biometric Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"Wcmsvc",
+         "display_name":"Windows Connection Manager",
+         "status":"Running"
+      },
+      {
+         "name":"wcncsvc",
+         "display_name":"Windows Connect Now - Config Registrar",
+         "status":"Stopped"
+      },
+      {
+         "name":"WdiServiceHost",
+         "display_name":"Diagnostic Service Host",
+         "status":"Running"
+      },
+      {
+         "name":"WdiSystemHost",
+         "display_name":"Diagnostic System Host",
+         "status":"Running"
+      },
+      {
+         "name":"WdNisSvc",
+         "display_name":"Windows Defender Antivirus Network Inspection Service",
+         "status":"Running"
+      },
+      {
+         "name":"WebClient",
+         "display_name":"WebClient",
+         "status":"Running"
+      },
+      {
+         "name":"WebManagement",
+         "display_name":"Web Management",
+         "status":"Stopped"
+      },
+      {
+         "name":"Wecsvc",
+         "display_name":"Windows Event Collector",
+         "status":"Stopped"
+      },
+      {
+         "name":"WEPHOSTSVC",
+         "display_name":"Windows Encryption Provider Host Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"wercplsupport",
+         "display_name":"Problem Reports and Solutions Control Panel Support",
+         "status":"Stopped"
+      },
+      {
+         "name":"WerSvc",
+         "display_name":"Windows Error Reporting Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"WFDSConMgrSvc",
+         "display_name":"Wi-Fi Direct Services Connection Manager Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"WiaRpc",
+         "display_name":"Still Image Acquisition Events",
+         "status":"Stopped"
+      },
+      {
+         "name":"WinDefend",
+         "display_name":"Windows Defender Antivirus Service",
+         "status":"Running"
+      },
+      {
+         "name":"WinHttpAutoProxySvc",
+         "display_name":"WinHTTP Web Proxy Auto-Discovery Service",
+         "status":"Running"
+      },
+      {
+         "name":"Winmgmt",
+         "display_name":"Windows Management Instrumentation",
+         "status":"Running"
+      },
+      {
+         "name":"WinRM",
+         "display_name":"Windows Remote Management (WS-Management)",
+         "status":"Stopped"
+      },
+      {
+         "name":"wisvc",
+         "display_name":"Windows Insider Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"WlanSvc",
+         "display_name":"WLAN AutoConfig",
+         "status":"Running"
+      },
+      {
+         "name":"wlidsvc",
+         "display_name":"Microsoft Account Sign-in Assistant",
+         "status":"Stopped"
+      },
+      {
+         "name":"wlpasvc",
+         "display_name":"Local Profile Assistant Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"wmiApSrv",
+         "display_name":"WMI Performance Adapter",
+         "status":"Stopped"
+      },
+      {
+         "name":"WMPNetworkSvc",
+         "display_name":"Windows Media Player Network Sharing Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"workfolderssvc",
+         "display_name":"Work Folders",
+         "status":"Stopped"
+      },
+      {
+         "name":"WPDBusEnum",
+         "display_name":"Portable Device Enumerator Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"WpnService",
+         "display_name":"Windows Push Notifications System Service",
+         "status":"Running"
+      },
+      {
+         "name":"WpnUserService_7a167314",
+         "display_name":"Windows Push Notifications User Service_7a167314",
+         "status":"Running"
+      },
+      {
+         "name":"wscsvc",
+         "display_name":"Security Center",
+         "status":"Running"
+      },
+      {
+         "name":"WSearch",
+         "display_name":"Windows Search",
+         "status":"Running"
+      },
+      {
+         "name":"wuauserv",
+         "display_name":"Windows Update",
+         "status":"Running"
+      },
+      {
+         "name":"WwanSvc",
+         "display_name":"WWAN AutoConfig",
+         "status":"Stopped"
+      },
+      {
+         "name":"xbgm",
+         "display_name":"Xbox Game Monitoring",
+         "status":"Stopped"
+      },
+      {
+         "name":"XblAuthManager",
+         "display_name":"Xbox Live Auth Manager",
+         "status":"Stopped"
+      },
+      {
+         "name":"XblGameSave",
+         "display_name":"Xbox Live Game Save",
+         "status":"Stopped"
+      },
+      {
+         "name":"XboxGipSvc",
+         "display_name":"Xbox Accessory Management Service",
+         "status":"Stopped"
+      },
+      {
+         "name":"XboxNetApiSvc",
+         "display_name":"Xbox Live Networking Service",
+         "status":"Stopped"
+      }
+   ],
+   "usb_devices":[
+      {
+         "name":"USB Root Hub (USB 3.0)",
+         "description":"USB Root Hub (USB 3.0)",
+         "device_id":"USB\\ROOT_HUB30\\4&DB2FC44&0&0",
+         "hawrdware_id":{
+            "value":[
+               "USB\\ROOT_HUB30&VID8086&PID9D2F&REV0021",
+               "USB\\ROOT_HUB30&VID8086&PID9D2F",
+               "USB\\ROOT_HUB30"
+            ],
+            "Count":3
+         },
+         "service":"USBHUB3",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard USB HUBs)",
+         "install_date":null
+      },
+      {
+         "name":"Generic SuperSpeed USB Hub",
+         "description":"Generic SuperSpeed USB Hub",
+         "device_id":"USB\\VID_045E&PID_090B\\5&2C705BFE&0&13",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_045E&PID_090B&REV_4711",
+               "USB\\VID_045E&PID_090B"
+            ],
+            "Count":2
+         },
+         "service":"USBHUB3",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard USB HUBs)",
+         "install_date":null
+      },
+      {
+         "name":"Marvell AVASTAR Bluetooth Radio Adapter",
+         "description":"Marvell AVASTAR Bluetooth Radio Adapter",
+         "device_id":"USB\\VID_1286&PID_204C\\0000000000000000",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_1286&PID_204C&REV_3201",
+               "USB\\VID_1286&PID_204C"
+            ],
+            "Count":2
+         },
+         "service":"BTHUSB",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Marvell Semiconductor, Inc.",
+         "install_date":null
+      },
+      {
+         "name":"Microsoft Bluetooth LE Enumerator",
+         "description":"Microsoft Bluetooth LE Enumerator",
+         "device_id":"BTH\\MS_BTHLE\\6&E3528ED&0&0",
+         "hawrdware_id":"BTH\\MS_BTHLE",
+         "service":"BthLEEnum",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Arc Touch BT Mouse",
+         "description":"Bluetooth LE Device",
+         "device_id":"BTHLE\\DEV_F0716A504A7A\\7&1FE13B14&0&F0716A504A7A",
+         "hawrdware_id":"BTHLE\\Dev_f0716a504a7a",
+         "service":"BthLEEnum",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Generic Access Profile",
+         "description":"Generic Access Profile",
+         "device_id":"BTHLEDEVICE\\{00001800-0000-1000-8000-00805F9B34FB}_DEV_VID&02045E_PID&0804_REV&0001_F0716A504A7A\\8&B35C7C0&0&0001",
+         "hawrdware_id":{
+            "value":[
+               "BTHLEDevice\\{00001800-0000-1000-8000-00805f9b34fb}_Dev_VID&02045e_PID&0804_REV&0001",
+               "BTHLEDevice\\{00001800-0000-1000-8000-00805f9b34fb}_Dev_VID&02045e_PID&0804",
+               "BTHLEDevice\\{00001800-0000-1000-8000-00805f9b34fb}_LOCALMFG&0048"
+            ],
+            "Count":3
+         },
+         "service":"UmPass",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Generic Attribute Profile",
+         "description":"Generic Attribute Profile",
+         "device_id":"BTHLEDEVICE\\{00001801-0000-1000-8000-00805F9B34FB}_DEV_VID&02045E_PID&0804_REV&0001_F0716A504A7A\\8&B35C7C0&0&0008",
+         "hawrdware_id":{
+            "value":[
+               "BTHLEDevice\\{00001801-0000-1000-8000-00805f9b34fb}_Dev_VID&02045e_PID&0804_REV&0001",
+               "BTHLEDevice\\{00001801-0000-1000-8000-00805f9b34fb}_Dev_VID&02045e_PID&0804",
+               "BTHLEDevice\\{00001801-0000-1000-8000-00805f9b34fb}_LOCALMFG&0048"
+            ],
+            "Count":3
+         },
+         "service":"UmPass",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Device Information Service",
+         "description":"Device Information Service",
+         "device_id":"BTHLEDEVICE\\{0000180A-0000-1000-8000-00805F9B34FB}_DEV_VID&02045E_PID&0804_REV&0001_F0716A504A7A\\8&B35C7C0&0&000C",
+         "hawrdware_id":{
+            "value":[
+               "BTHLEDevice\\{0000180a-0000-1000-8000-00805f9b34fb}_Dev_VID&02045e_PID&0804_REV&0001",
+               "BTHLEDevice\\{0000180a-0000-1000-8000-00805f9b34fb}_Dev_VID&02045e_PID&0804",
+               "BTHLEDevice\\{0000180a-0000-1000-8000-00805f9b34fb}_LOCALMFG&0048"
+            ],
+            "Count":3
+         },
+         "service":"UmPass",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Bluetooth LE Generic Attribute Service",
+         "description":"Bluetooth LE Generic Attribute Service",
+         "device_id":"BTHLEDEVICE\\{0000180F-0000-1000-8000-00805F9B34FB}_DEV_VID&02045E_PID&0804_REV&0001_F0716A504A7A\\8&B35C7C0&0&0011",
+         "hawrdware_id":{
+            "value":[
+               "BTHLEDevice\\{0000180f-0000-1000-8000-00805f9b34fb}_Dev_VID&02045e_PID&0804_REV&0001",
+               "BTHLEDevice\\{0000180f-0000-1000-8000-00805f9b34fb}_Dev_VID&02045e_PID&0804",
+               "BTHLEDevice\\{0000180f-0000-1000-8000-00805f9b34fb}_LOCALMFG&0048"
+            ],
+            "Count":3
+         },
+         "service":"UmPass",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Bluetooth Low Energy GATT compliant HID device",
+         "description":"Bluetooth Low Energy GATT compliant HID device",
+         "device_id":"BTHLEDEVICE\\{00001812-0000-1000-8000-00805F9B34FB}_DEV_VID&02045E_PID&0804_REV&0001_F0716A504A7A\\8&B35C7C0&0&0015",
+         "hawrdware_id":{
+            "value":[
+               "BTHLEDevice\\{00001812-0000-1000-8000-00805f9b34fb}_Dev_VID&02045e_PID&0804_REV&0001",
+               "BTHLEDevice\\{00001812-0000-1000-8000-00805f9b34fb}_Dev_VID&02045e_PID&0804",
+               "BTHLEDevice\\{00001812-0000-1000-8000-00805f9b34fb}_LOCALMFG&0048"
+            ],
+            "Count":3
+         },
+         "service":"mshidumdf",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Bluetooth Device (RFCOMM Protocol TDI)",
+         "description":"Bluetooth Device (RFCOMM Protocol TDI)",
+         "device_id":"BTH\\MS_RFCOMM\\6&E3528ED&0&0",
+         "hawrdware_id":"BTH\\MS_RFCOMM",
+         "service":"RFCOMM",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Microsoft Bluetooth Enumerator",
+         "description":"Microsoft Bluetooth Enumerator",
+         "device_id":"BTH\\MS_BTHBRB\\6&E3528ED&0&1",
+         "hawrdware_id":"BTH\\MS_BTHBRB",
+         "service":"BthEnum",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Bose SoundLink Wireless Mobile speaker Stereo",
+         "description":"Bluetooth Stereo",
+         "device_id":"BTHENUM\\{0000110B-0000-1000-8000-00805F9B34FB}_LOCALMFG&0048\\7&297C82F3&0&000C8A4AA56B_C00000000",
+         "hawrdware_id":"BTHENUM\\{0000110b-0000-1000-8000-00805f9b34fb}_LOCALMFG&0048",
+         "service":"BthA2DP",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"PLT_Legend Stereo",
+         "description":"Bluetooth Stereo",
+         "device_id":"BTHENUM\\{0000110B-0000-1000-8000-00805F9B34FB}_VID&00010055_PID&0113\\7&297C82F3&0&E422A5082FA5_C00000000",
+         "hawrdware_id":{
+            "value":[
+               "BTHENUM\\{0000110b-0000-1000-8000-00805f9b34fb}_VID&00010055_PID&0113",
+               "BTHENUM\\{0000110b-0000-1000-8000-00805f9b34fb}_LOCALMFG&0048"
+            ],
+            "Count":2
+         },
+         "service":"BthA2DP",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"AV Remote Target Service",
+         "description":"AV Remote Target Service",
+         "device_id":"BTHENUM\\{0000110C-0000-1000-8000-00805F9B34FB}_LOCALMFG&0048\\7&297C82F3&0&000C8A4AA56B_C00000000",
+         "hawrdware_id":"BTHENUM\\{0000110c-0000-1000-8000-00805f9b34fb}_LOCALMFG&0048",
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"AV Remote Target Service",
+         "description":"AV Remote Target Service",
+         "device_id":"BTHENUM\\{0000110C-0000-1000-8000-00805F9B34FB}_VID&00010055_PID&0113\\7&297C82F3&0&E422A5082FA5_C00000000",
+         "hawrdware_id":{
+            "value":[
+               "BTHENUM\\{0000110c-0000-1000-8000-00805f9b34fb}_VID&00010055_PID&0113",
+               "BTHENUM\\{0000110c-0000-1000-8000-00805f9b34fb}_LOCALMFG&0048"
+            ],
+            "Count":2
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Bose SoundLink Wireless Mobile speaker Audio/Video Remote Control HID",
+         "description":"Bluetooth Audio/Video Remote Control HID",
+         "device_id":"BTHENUM\\{0000110E-0000-1000-8000-00805F9B34FB}_LOCALMFG&0048\\7&297C82F3&0&000C8A4AA56B_C00000000",
+         "hawrdware_id":"BTHENUM\\{0000110e-0000-1000-8000-00805f9b34fb}_LOCALMFG&0048",
+         "service":"BthAvrcpTg",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"PLT_Legend Audio/Video Remote Control HID",
+         "description":"Bluetooth Audio/Video Remote Control HID",
+         "device_id":"BTHENUM\\{0000110E-0000-1000-8000-00805F9B34FB}_VID&00010055_PID&0113\\7&297C82F3&0&E422A5082FA5_C00000000",
+         "hawrdware_id":{
+            "value":[
+               "BTHENUM\\{0000110e-0000-1000-8000-00805f9b34fb}_VID&00010055_PID&0113",
+               "BTHENUM\\{0000110e-0000-1000-8000-00805f9b34fb}_LOCALMFG&0048"
+            ],
+            "Count":2
+         },
+         "service":"BthAvrcpTg",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"PLT_Legend Hands-Free Audio and Call Control HID Enumerator",
+         "description":"Bluetooth Hands-Free Audio and Call Control HID Enumerator",
+         "device_id":"BTHENUM\\{0000111E-0000-1000-8000-00805F9B34FB}_VID&00010055_PID&0113\\7&297C82F3&0&E422A5082FA5_C00000000",
+         "hawrdware_id":{
+            "value":[
+               "BTHENUM\\{0000111e-0000-1000-8000-00805f9b34fb}_VID&00010055_PID&0113",
+               "BTHENUM\\{0000111e-0000-1000-8000-00805f9b34fb}_LOCALMFG&0048"
+            ],
+            "Count":2
+         },
+         "service":"BthHFEnum",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"PLT_Legend Hands-Free",
+         "description":"Bluetooth Hands-Free",
+         "device_id":"BTHHFENUM\\BTHHFPAUDIO\\8&35EB6259&0&97",
+         "hawrdware_id":"BTHHFENUM\\BthHFPAudio",
+         "service":"BthHFAud",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"PLT_Legend Hands-Free Call Control HID",
+         "description":"Bluetooth Hands-Free Call Control HID",
+         "device_id":"BTHHFENUM\\BTHHFPHID\\8&35EB6259&0&104",
+         "hawrdware_id":"BTHHFENUM\\BthHFPHID",
+         "service":"bthhfhid",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"PltHeadsetDataService",
+         "description":"PltHeadsetDataService",
+         "device_id":"BTHENUM\\{82972387-294E-4D62-97B5-2668AA35F618}_VID&00010055_PID&0113\\7&297C82F3&0&E422A5082FA5_C00000000",
+         "hawrdware_id":{
+            "value":[
+               "BTHENUM\\{82972387-294e-4d62-97b5-2668aa35f618}_VID&00010055_PID&0113",
+               "BTHENUM\\{82972387-294e-4d62-97b5-2668aa35f618}_LOCALMFG&0048"
+            ],
+            "Count":2
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":null,
+         "install_date":null
+      },
+      {
+         "name":"Bose SoundLink Wireless Mobile speaker",
+         "description":"Bluetooth Device",
+         "device_id":"BTHENUM\\DEV_000C8A4AA56B\\7&297C82F3&0&BLUETOOTHDEVICE_000C8A4AA56B",
+         "hawrdware_id":"BTHENUM\\Dev_000C8A4AA56B",
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"PLT_Legend",
+         "description":"Bluetooth Device",
+         "device_id":"BTHENUM\\DEV_E422A5082FA5\\7&297C82F3&0&BLUETOOTHDEVICE_E422A5082FA5",
+         "hawrdware_id":"BTHENUM\\Dev_E422A5082FA5",
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Microsoft Bluetooth Protocol Support Driver",
+         "description":"Microsoft Bluetooth Protocol Support Driver",
+         "device_id":"BTH\\MS_BTHL2CAP\\6&E3528ED&0&2",
+         "hawrdware_id":"BTH\\MS_BTHL2CAP",
+         "service":"bthl2cap",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Bluetooth Device (Personal Area Network)",
+         "description":"Bluetooth Device (Personal Area Network)",
+         "device_id":"BTH\\MS_BTHPAN\\6&E3528ED&0&3",
+         "hawrdware_id":"BTH\\MS_BTHPAN",
+         "service":"BthPan",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Generic USB Hub",
+         "description":"Generic USB Hub",
+         "device_id":"USB\\VID_045E&PID_091A\\5&2C705BFE&0&1",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_045E&PID_091A&REV_4711",
+               "USB\\VID_045E&PID_091A"
+            ],
+            "Count":2
+         },
+         "service":"USBHUB3",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard USB HUBs)",
+         "install_date":null
+      },
+      {
+         "name":"USB Input Device",
+         "description":"USB Input Device",
+         "device_id":"USB\\VID_045E&PID_07CD\\6&3A757EEC&0&4",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_045E&PID_07CD&REV_0507",
+               "USB\\VID_045E&PID_07CD"
+            ],
+            "Count":2
+         },
+         "service":"HidUsb",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"HID Keyboard Device",
+         "description":"HID Keyboard Device",
+         "device_id":"HID\\VID_045E&PID_07CD&COL01\\7&30D49C2F&0&0000",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_045E&PID_07CD&REV_0507&Col01",
+               "HID\\VID_045E&PID_07CD&Col01",
+               "HID\\VID_045E&UP:0001_U:0006",
+               "HID_DEVICE_SYSTEM_KEYBOARD",
+               "HID_DEVICE_UP:0001_U:0006",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":"kbdhid",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard keyboards)",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant mouse",
+         "description":"HID-compliant mouse",
+         "device_id":"HID\\VID_045E&PID_07CD&COL02\\7&30D49C2F&0&0001",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_045E&PID_07CD&REV_0507&Col02",
+               "HID\\VID_045E&PID_07CD&Col02",
+               "HID\\VID_045E&UP:0001_U:0002",
+               "HID_DEVICE_SYSTEM_MOUSE",
+               "HID_DEVICE_UP:0001_U:0002",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":"mouhid",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant consumer control device",
+         "description":"HID-compliant consumer control device",
+         "device_id":"HID\\VID_045E&PID_07CD&COL03\\7&30D49C2F&0&0002",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_045E&PID_07CD&REV_0507&Col03",
+               "HID\\VID_045E&PID_07CD&Col03",
+               "HID\\VID_045E&UP:000C_U:0001",
+               "HID_DEVICE_SYSTEM_CONSUMER",
+               "HID_DEVICE_UP:000C_U:0001",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Surface Base Integration",
+         "description":"Surface Base Integration",
+         "device_id":"HID\\VID_045E&PID_07CD&COL04\\7&30D49C2F&0&0003",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_045E&PID_07CD&REV_0507&Col04",
+               "HID\\VID_045E&PID_07CD&Col04",
+               "HID\\VID_045E&UP:FF05_U:0001",
+               "HID_DEVICE_UP:FF05_U:0001",
+               "HID_DEVICE_UPR:FF00-FFFF",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Surface Keyboard Backlight",
+         "description":"Surface Keyboard Backlight",
+         "device_id":"{4E781CFC-87EE-459B-A319-9B0531EB7485}\\SURFACEKEYBOARDAMBIENTBACKLIGHT\\8&18C2E47D&0&0",
+         "hawrdware_id":"{4E781CFC-87EE-459B-A319-9B0531EB7485}\\SurfaceKeyboardAmbientBacklight",
+         "service":"WUDFRd",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Surface Base Firmware Update",
+         "description":"Surface Base Firmware Update",
+         "device_id":"{5E9A8CDC-14AB-4609-A017-68BCE594AB68}\\SURFACEBASEFWUPDATE\\8&18C2E47D&0&1",
+         "hawrdware_id":"{5E9A8CDC-14AB-4609-A017-68BCE594AB68}\\SurfaceBaseFwUpdate",
+         "service":"WUDFRd",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant vendor-defined device",
+         "description":"HID-compliant vendor-defined device",
+         "device_id":"HID\\VID_045E&PID_07CD&COL05\\7&30D49C2F&0&0004",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_045E&PID_07CD&REV_0507&Col05",
+               "HID\\VID_045E&PID_07CD&Col05",
+               "HID\\VID_045E&UP:FF05_U:0002",
+               "HID_DEVICE_UP:FF05_U:0002",
+               "HID_DEVICE_UPR:FF00-FFFF",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant touch pad",
+         "description":"HID-compliant touch pad",
+         "device_id":"HID\\VID_045E&PID_07CD&COL06\\7&30D49C2F&0&0005",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_045E&PID_07CD&REV_0507&Col06",
+               "HID\\VID_045E&PID_07CD&Col06",
+               "HID\\VID_045E&UP:000D_U:0005",
+               "HID_DEVICE_UP:000D_U:0005",
+               "HID_DEVICE"
+            ],
+            "Count":5
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"Microsoft Input Configuration Device",
+         "description":"Microsoft Input Configuration Device",
+         "device_id":"HID\\VID_045E&PID_07CD&COL07\\7&30D49C2F&0&0006",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_045E&PID_07CD&REV_0507&Col07",
+               "HID\\VID_045E&PID_07CD&Col07",
+               "HID\\VID_045E&UP:000D_U:000E",
+               "HID_DEVICE_UP:000D_U:000E",
+               "HID_DEVICE"
+            ],
+            "Count":5
+         },
+         "service":"MTConfig",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant vendor-defined device",
+         "description":"HID-compliant vendor-defined device",
+         "device_id":"HID\\VID_045E&PID_07CD&COL08\\7&30D49C2F&0&0007",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_045E&PID_07CD&REV_0507&Col08",
+               "HID\\VID_045E&PID_07CD&Col08",
+               "HID\\VID_045E&UP:FF07_U:0001",
+               "HID_DEVICE_UP:FF07_U:0001",
+               "HID_DEVICE_UPR:FF00-FFFF",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant vendor-defined device",
+         "description":"HID-compliant vendor-defined device",
+         "device_id":"HID\\VID_045E&PID_07CD&COL09\\7&30D49C2F&0&0008",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_045E&PID_07CD&REV_0507&Col09",
+               "HID\\VID_045E&PID_07CD&Col09",
+               "HID\\VID_045E&UP:FF05_U:0004",
+               "HID_DEVICE_UP:FF05_U:0004",
+               "HID_DEVICE_UPR:FF00-FFFF",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant vendor-defined device",
+         "description":"HID-compliant vendor-defined device",
+         "device_id":"HID\\VID_045E&PID_07CD&COL0A\\7&30D49C2F&0&0009",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_045E&PID_07CD&REV_0507&Col0A",
+               "HID\\VID_045E&PID_07CD&Col0A",
+               "HID\\VID_045E&UP:FF05_U:0050",
+               "HID_DEVICE_UP:FF05_U:0050",
+               "HID_DEVICE_UPR:FF00-FFFF",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"USB Composite Device",
+         "description":"USB Composite Device",
+         "device_id":"USB\\VID_046D&PID_C52B\\6&3A757EEC&0&1",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_046D&PID_C52B&REV_1203",
+               "USB\\VID_046D&PID_C52B"
+            ],
+            "Count":2
+         },
+         "service":"usbccgp",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard USB Host Controller)",
+         "install_date":null
+      },
+      {
+         "name":"Logitech USB Input Device",
+         "description":"Logitech USB Input Device",
+         "device_id":"USB\\VID_046D&PID_C52B&MI_00\\7&1FE9C3B2&0&0000",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_046D&PID_C52B&REV_1203&MI_00",
+               "USB\\VID_046D&PID_C52B&MI_00"
+            ],
+            "Count":2
+         },
+         "service":"HidUsb",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Logitech (x64)",
+         "install_date":null
+      },
+      {
+         "name":"HID Keyboard Device",
+         "description":"HID Keyboard Device",
+         "device_id":"HID\\VID_046D&PID_C52B&MI_00\\8&1A1A399B&0&0000",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_046D&PID_C52B&REV_1203&MI_00",
+               "HID\\VID_046D&PID_C52B&MI_00",
+               "HID\\VID_046D&UP:0001_U:0006",
+               "HID_DEVICE_SYSTEM_KEYBOARD",
+               "HID_DEVICE_UP:0001_U:0006",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":"kbdhid",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard keyboards)",
+         "install_date":null
+      },
+      {
+         "name":"USB Input Device",
+         "description":"USB Input Device",
+         "device_id":"USB\\VID_046D&PID_C52B&MI_01\\7&1FE9C3B2&0&0001",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_046D&PID_C52B&REV_1203&MI_01",
+               "USB\\VID_046D&PID_C52B&MI_01"
+            ],
+            "Count":2
+         },
+         "service":"HidUsb",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant mouse",
+         "description":"HID-compliant mouse",
+         "device_id":"HID\\VID_046D&PID_C52B&MI_01&COL01\\8&256AD56&0&0000",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_046D&PID_C52B&REV_1203&MI_01&Col01",
+               "HID\\VID_046D&PID_C52B&MI_01&Col01",
+               "HID\\VID_046D&UP:0001_U:0002",
+               "HID_DEVICE_SYSTEM_MOUSE",
+               "HID_DEVICE_UP:0001_U:0002",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":"mouhid",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant consumer control device",
+         "description":"HID-compliant consumer control device",
+         "device_id":"HID\\VID_046D&PID_C52B&MI_01&COL02\\8&256AD56&0&0001",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_046D&PID_C52B&REV_1203&MI_01&Col02",
+               "HID\\VID_046D&PID_C52B&MI_01&Col02",
+               "HID\\VID_046D&UP:000C_U:0001",
+               "HID_DEVICE_SYSTEM_CONSUMER",
+               "HID_DEVICE_UP:000C_U:0001",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant system controller",
+         "description":"HID-compliant system controller",
+         "device_id":"HID\\VID_046D&PID_C52B&MI_01&COL03\\8&256AD56&0&0002",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_046D&PID_C52B&REV_1203&MI_01&Col03",
+               "HID\\VID_046D&PID_C52B&MI_01&Col03",
+               "HID\\VID_046D&UP:0001_U:0080",
+               "HID_DEVICE_SYSTEM_CONTROL",
+               "HID_DEVICE_UP:0001_U:0080",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant vendor-defined device",
+         "description":"HID-compliant vendor-defined device",
+         "device_id":"HID\\VID_046D&PID_C52B&MI_01&COL04\\8&256AD56&0&0003",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_046D&PID_C52B&REV_1203&MI_01&Col04",
+               "HID\\VID_046D&PID_C52B&MI_01&Col04",
+               "HID\\VID_046D&UP:FFBC_U:0088",
+               "HID_DEVICE_UP:FFBC_U:0088",
+               "HID_DEVICE_UPR:FF00-FFFF",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"USB Input Device",
+         "description":"USB Input Device",
+         "device_id":"USB\\VID_046D&PID_C52B&MI_02\\7&1FE9C3B2&0&0002",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_046D&PID_C52B&REV_1203&MI_02",
+               "USB\\VID_046D&PID_C52B&MI_02"
+            ],
+            "Count":2
+         },
+         "service":"HidUsb",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant vendor-defined device",
+         "description":"HID-compliant vendor-defined device",
+         "device_id":"HID\\VID_046D&PID_C52B&MI_02&COL01\\8&262DEB18&0&0000",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_046D&PID_C52B&REV_1203&MI_02&Col01",
+               "HID\\VID_046D&PID_C52B&MI_02&Col01",
+               "HID\\VID_046D&UP:FF00_U:0001",
+               "HID_DEVICE_UP:FF00_U:0001",
+               "HID_DEVICE_UPR:FF00-FFFF",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant vendor-defined device",
+         "description":"HID-compliant vendor-defined device",
+         "device_id":"HID\\VID_046D&PID_C52B&MI_02&COL02\\8&262DEB18&0&0001",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_046D&PID_C52B&REV_1203&MI_02&Col02",
+               "HID\\VID_046D&PID_C52B&MI_02&Col02",
+               "HID\\VID_046D&UP:FF00_U:0002",
+               "HID_DEVICE_UP:FF00_U:0002",
+               "HID_DEVICE_UPR:FF00-FFFF",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant vendor-defined device",
+         "description":"HID-compliant vendor-defined device",
+         "device_id":"HID\\VID_046D&PID_C52B&MI_02&COL03\\8&262DEB18&0&0002",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_046D&PID_C52B&REV_1203&MI_02&Col03",
+               "HID\\VID_046D&PID_C52B&MI_02&Col03",
+               "HID\\VID_046D&UP:FF00_U:0004",
+               "HID_DEVICE_UP:FF00_U:0004",
+               "HID_DEVICE_UPR:FF00-FFFF",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"Generic SuperSpeed USB Hub",
+         "description":"Generic SuperSpeed USB Hub",
+         "device_id":"USB\\VID_045E&PID_0900\\5&2C705BFE&0&16",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_045E&PID_0900&REV_4694",
+               "USB\\VID_045E&PID_0900"
+            ],
+            "Count":2
+         },
+         "service":"USBHUB3",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard USB HUBs)",
+         "install_date":null
+      },
+      {
+         "name":"Surface Ethernet Adapter",
+         "description":"Surface Ethernet Adapter",
+         "device_id":"USB\\VID_045E&PID_07C6\\000001000000",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_045E&PID_07C6&REV_3000",
+               "USB\\VID_045E&PID_07C6"
+            ],
+            "Count":2
+         },
+         "service":"msux64w10",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Generic SuperSpeed USB Hub",
+         "description":"Generic SuperSpeed USB Hub",
+         "device_id":"USB\\VID_045E&PID_0902\\6&22F239F&0&1",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_045E&PID_0902&REV_4695",
+               "USB\\VID_045E&PID_0902"
+            ],
+            "Count":2
+         },
+         "service":"USBHUB3",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard USB HUBs)",
+         "install_date":null
+      },
+      {
+         "name":"Generic USB Hub",
+         "description":"Generic USB Hub",
+         "device_id":"USB\\VID_045E&PID_0901\\5&2C705BFE&0&4",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_045E&PID_0901&REV_4694",
+               "USB\\VID_045E&PID_0901"
+            ],
+            "Count":2
+         },
+         "service":"USBHUB3",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard USB HUBs)",
+         "install_date":null
+      },
+      {
+         "name":"Generic USB Hub",
+         "description":"Generic USB Hub",
+         "device_id":"USB\\VID_045E&PID_0903\\6&1F97EB87&0&1",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_045E&PID_0903&REV_4695",
+               "USB\\VID_045E&PID_0903"
+            ],
+            "Count":2
+         },
+         "service":"USBHUB3",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard USB HUBs)",
+         "install_date":null
+      },
+      {
+         "name":"USB Composite Device",
+         "description":"USB Composite Device",
+         "device_id":"USB\\VID_0B0E&PID_0422\\1C48F9596E6D020700",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_0B0E&PID_0422&REV_0207",
+               "USB\\VID_0B0E&PID_0422"
+            ],
+            "Count":2
+         },
+         "service":"usbccgp",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard USB Host Controller)",
+         "install_date":null
+      },
+      {
+         "name":"Jabra SPEAK 510 USB",
+         "description":"USB Audio Device",
+         "device_id":"USB\\VID_0B0E&PID_0422&MI_00\\8&318120D4&0&0000",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_0B0E&PID_0422&REV_0207&MI_00",
+               "USB\\VID_0B0E&PID_0422&MI_00"
+            ],
+            "Count":2
+         },
+         "service":"usbaudio",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Generic USB Audio)",
+         "install_date":null
+      },
+      {
+         "name":"Echo Cancelling Speakerphone (Jabra SPEAK 510 USB)",
+         "description":"Audio Endpoint",
+         "device_id":"SWD\\MMDEVAPI\\{0.0.0.00000000}.{55111349-A556-4103-AB83-2A4085C93719}",
+         "hawrdware_id":"MMDEVAPI\\AudioEndpoints",
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Echo Cancelling Speakerphone (Jabra SPEAK 510 USB)",
+         "description":"Audio Endpoint",
+         "device_id":"SWD\\MMDEVAPI\\{0.0.1.00000000}.{6BABBDCD-DE12-418E-8F95-AED7678F76E2}",
+         "hawrdware_id":"MMDEVAPI\\AudioEndpoints",
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"USB Input Device",
+         "description":"USB Input Device",
+         "device_id":"USB\\VID_0B0E&PID_0422&MI_03\\8&318120D4&0&0003",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_0B0E&PID_0422&REV_0207&MI_03",
+               "USB\\VID_0B0E&PID_0422&MI_03"
+            ],
+            "Count":2
+         },
+         "service":"HidUsb",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant consumer control device",
+         "description":"HID-compliant consumer control device",
+         "device_id":"HID\\VID_0B0E&PID_0422&MI_03&COL01\\9&25D50260&0&0000",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_0B0E&PID_0422&REV_0207&MI_03&Col01",
+               "HID\\VID_0B0E&PID_0422&MI_03&Col01",
+               "HID\\VID_0B0E&UP:000C_U:0001",
+               "HID_DEVICE_SYSTEM_CONSUMER",
+               "HID_DEVICE_UP:000C_U:0001",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant vendor-defined device",
+         "description":"HID-compliant vendor-defined device",
+         "device_id":"HID\\VID_0B0E&PID_0422&MI_03&COL02\\9&25D50260&0&0001",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_0B0E&PID_0422&REV_0207&MI_03&Col02",
+               "HID\\VID_0B0E&PID_0422&MI_03&Col02",
+               "HID\\VID_0B0E&UP:FF00_U:0001",
+               "HID_DEVICE_UP:FF00_U:0001",
+               "HID_DEVICE_UPR:FF00-FFFF",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant headset",
+         "description":"HID-compliant headset",
+         "device_id":"HID\\VID_0B0E&PID_0422&MI_03&COL03\\9&25D50260&0&0002",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_0B0E&PID_0422&REV_0207&MI_03&Col03",
+               "HID\\VID_0B0E&PID_0422&MI_03&Col03",
+               "HID\\VID_0B0E&UP:000B_U:0005",
+               "HID_DEVICE_UP:000B_U:0005",
+               "HID_DEVICE"
+            ],
+            "Count":5
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"USB Input Device",
+         "description":"USB Input Device",
+         "device_id":"USB\\VID_045E&PID_0904\\6&1F97EB87&0&3",
+         "hawrdware_id":{
+            "value":[
+               "USB\\VID_045E&PID_0904&REV_7007",
+               "USB\\VID_045E&PID_0904"
+            ],
+            "Count":2
+         },
+         "service":"HidUsb",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant vendor-defined device",
+         "description":"HID-compliant vendor-defined device",
+         "device_id":"HID\\VID_045E&PID_0904&COL01\\7&2C78944B&0&0000",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_045E&PID_0904&REV_7007&Col01",
+               "HID\\VID_045E&PID_0904&Col01",
+               "HID\\VID_045E&UP:FF08_U:0001",
+               "HID_DEVICE_UP:FF08_U:0001",
+               "HID_DEVICE_UPR:FF00-FFFF",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant vendor-defined device",
+         "description":"HID-compliant vendor-defined device",
+         "device_id":"HID\\VID_045E&PID_0904&COL02\\7&2C78944B&0&0001",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_045E&PID_0904&REV_7007&Col02",
+               "HID\\VID_045E&PID_0904&Col02",
+               "HID\\VID_045E&UP:FF08_U:0002",
+               "HID_DEVICE_UP:FF08_U:0002",
+               "HID_DEVICE_UPR:FF00-FFFF",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant vendor-defined device",
+         "description":"HID-compliant vendor-defined device",
+         "device_id":"HID\\VID_045E&PID_0904&COL03\\7&2C78944B&0&0002",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_045E&PID_0904&REV_7007&Col03",
+               "HID\\VID_045E&PID_0904&Col03",
+               "HID\\VID_045E&UP:FF08_U:0004",
+               "HID_DEVICE_UP:FF08_U:0004",
+               "HID_DEVICE_UPR:FF00-FFFF",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"HID-compliant vendor-defined device",
+         "description":"HID-compliant vendor-defined device",
+         "device_id":"HID\\VID_045E&PID_0904&COL04\\7&2C78944B&0&0003",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_045E&PID_0904&REV_7007&Col04",
+               "HID\\VID_045E&PID_0904&Col04",
+               "HID\\VID_045E&UP:FF08_U:0050",
+               "HID_DEVICE_UP:FF08_U:0050",
+               "HID_DEVICE_UPR:FF00-FFFF",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"(Standard system devices)",
+         "install_date":null
+      },
+      {
+         "name":"Surface Dock Integration",
+         "description":"Surface Dock Integration",
+         "device_id":"HID\\VID_045E&PID_0904&COL05\\7&2C78944B&0&0004",
+         "hawrdware_id":{
+            "value":[
+               "HID\\VID_045E&PID_0904&REV_7007&Col05",
+               "HID\\VID_045E&PID_0904&Col05",
+               "HID\\VID_045E&UP:FF08_U:0060",
+               "HID_DEVICE_UP:FF08_U:0060",
+               "HID_DEVICE_UPR:FF00-FFFF",
+               "HID_DEVICE"
+            ],
+            "Count":6
+         },
+         "service":null,
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      },
+      {
+         "name":"Surface Dock Firmware Update",
+         "description":"Surface Dock Firmware Update",
+         "device_id":"{5E9A8CDC-14AB-4609-A017-68BCE594AB68}\\SURFACEDOCKFWUPDATE\\8&2A8BC42B&0&0",
+         "hawrdware_id":"{5E9A8CDC-14AB-4609-A017-68BCE594AB68}\\SurfaceDockFwUpdate",
+         "service":"WUDFRd",
+         "present":true,
+         "status":"OK",
+         "manufacturer":"Microsoft",
+         "install_date":null
+      }
+   ],
+   "disks":{
+      "device_id":"C:",
+      "free_space_mb":127994.61328125,
+      "size_mb":486696.578125
+   },
+   "software_x86":[
+      {
+         "name":"SoapUI 5.3.0 5.3.0",
+         "version":"5.3.0",
+         "publisher":"SmartBear Software",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\Program Files (x86)\\SmartBear\\SoapUI-5.3.0\\uninstall.exe\""
+      },
+      {
+         "name":"Adobe Creative Cloud",
+         "version":"4.0.1.188",
+         "publisher":"Adobe Systems Incorporated",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\Program Files (x86)\\Adobe\\Adobe Creative Cloud\\Utils\\Creative Cloud Uninstaller.exe\""
+      },
+      {
+         "name":"Citrix Receiver",
+         "version":"14.1.0.0",
+         "publisher":"Citrix Systems, Inc.",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"C:\\ProgramData\\Citrix\\Citrix Receiver\\TrolleyExpress.exe /uninstall /cleanup"
+      },
+      {
+         "name":"FileZilla Client 3.30.0",
+         "version":"3.30.0",
+         "publisher":"Tim Kosse",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"C:\\Program Files\\FileZilla FTP Client\\uninstall.exe"
+      },
+      {
+         "name":"Google Chrome",
+         "version":"63.0.3239.132",
+         "publisher":"Google Inc.",
+         "install_date":"20170411Z",
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\63.0.3239.132\\Installer\\setup.exe\" --uninstall --system-level --verbose-logging"
+      },
+      {
+         "name":"Notepad++ (32-bit x86)",
+         "version":"7.4.2",
+         "publisher":"Notepad++ Team",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"C:\\Program Files (x86)\\Notepad++\\uninstall.exe"
+      },
+      {
+         "name":"Adobe Photoshop CC 2017",
+         "version":"18.1.0",
+         "publisher":"Adobe Systems Incorporated",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\Program Files (x86)\\Adobe\\Adobe Creative Cloud\\HDCore\\Uninstaller.exe\" --uninstall=1 --sapCode=PHSP --productVersion=18.1 --productPlatform=win64 --productAdobeCode={PHSP-18.1-64-ADBEADBEADBEADBEADBEADB} --productName=\"Photoshop CC (2017)\" --mode=2"
+      },
+      {
+         "name":"WinSCP 5.11.2",
+         "version":"5.11.2",
+         "publisher":"Martin Prikryl",
+         "install_date":"20171016Z",
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\Program Files (x86)\\WinSCP\\unins000.exe\""
+      },
+      {
+         "name":"Citrix Receiver(Aero)",
+         "version":"14.1.0.0",
+         "publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{012C59CF-074A-43DA-8085-B6E636733B59}"
+      },
+      {
+         "name":"WiX Toolset v3.10 Managed SDK",
+         "version":"3.10.3007",
+         "publisher":".NET Foundation",
+         "install_date":"20170914Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{02016329-E985-4168-89CC-E3F4E383312E}v3.10.3007\\data\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{02016329-E985-4168-89CC-E3F4E383312E}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+         "version":"12.0.30501.0",
+         "publisher":"Microsoft Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{050d4fc8-5d48-4b8f-8972-47c82c46020f}\\vcredist_x64.exe\"  /uninstall"
+      },
+      {
+         "name":"Apple Application Support (32-bit)",
+         "version":"5.4.1",
+         "publisher":"Apple Inc.",
+         "install_date":"20170425Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\IXP340.TMP\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{05E07D23-91E9-4E70-A4CC-EF505088F967}"
+      },
+      {
+         "name":"Citrix Receiver(USB)",
+         "version":"14.1.0.0",
+         "publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{0E1C5B43-1837-4F98-A96B-79A8A0A5955F}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+         "version":"12.0.21005",
+         "publisher":"Microsoft Corporation",
+         "install_date":"20170411Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}v12.0.21005\\packages\\vcRuntimeMinimum_x86\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148",
+         "version":"9.0.30729.4148",
+         "publisher":"Microsoft Corporation",
+         "install_date":"20170907Z",
+         "install_source":"c:\\1040c85a4e3a117e5f\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{1F1C2DFC-2D24-3E06-BCB8-725134ADF989}"
+      },
+      {
+         "name":"Python 3.6.4 Tcl/Tk Support (32-bit)",
+         "version":"3.6.4150.0",
+         "publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{20888FA1-8127-42E3-969F-9BF93245AC83}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{20888FA1-8127-42E3-969F-9BF93245AC83}"
+      },
+      {
+         "name":"Remote Desktop Manager Free",
+         "version":"3.0.19.0",
+         "publisher":"Devolutions inc.",
+         "install_date":"20170430Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Roaming\\Devolutions inc\\Remote Desktop Manager Free\\install\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{251272EF-CD75-490F-B5C8-7C7922EF6564}"
+      },
+      {
+         "name":"RES ONE Automation Agent",
+         "version":"10.2.0.0",
+         "publisher":"RES Software Development B.V.",
+         "install_date":"20170901Z",
+         "install_source":"C:\\Users\\Mike\\Desktop\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{26F8DB8D-2C1D-4271-AA73-3334404816B4}"
+      },
+      {
+         "name":"Python 3.6.4 Standard Library (32-bit)",
+         "version":"3.6.4150.0",
+         "publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{2832768E-9BCA-4421-950C-7186B3BDFC45}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{2832768E-9BCA-4421-950C-7186B3BDFC45}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24212",
+         "version":"14.0.24212.0",
+         "publisher":"Microsoft Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{323dad84-0974-4d90-a1c1-e006c7fdbb7d}\\VC_redist.x64.exe\"  /uninstall"
+      },
+      {
+         "name":"Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030",
+         "version":"11.0.61030.0",
+         "publisher":"Microsoft Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}\\vcredist_x86.exe\"  /uninstall"
+      },
+      {
+         "name":"Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24212",
+         "version":"14.0.24212",
+         "publisher":"Microsoft Corporation",
+         "install_date":"20170907Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{37B55901-995A-3650-80B1-BBFD047E2911}v14.0.24212\\packages\\vcRuntimeMinimum_x86\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{37B55901-995A-3650-80B1-BBFD047E2911}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24212",
+         "version":"14.0.24212.0",
+         "publisher":"Microsoft Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{462f63a8-6347-4894-a1b3-dbfe3a4c981d}\\VC_redist.x86.exe\"  /uninstall"
+      },
+      {
+         "name":"Self-service Plug-in",
+         "version":"4.1.0.41738",
+         "publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{47117FCA-0D00-4B6D-9D68-00B763629463}"
+      },
+      {
+         "name":"Python 3.6.4 Executables (32-bit)",
+         "version":"3.6.4150.0",
+         "publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{47A75DB9-F3F5-4697-9261-DBA5162DBB9E}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{47A75DB9-F3F5-4697-9261-DBA5162DBB9E}"
+      },
+      {
+         "name":"Snagit 13",
+         "version":"13.1.2.7933",
+         "publisher":"TechSmith Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{507c35df-03b5-4452-a86c-f50425c2c6ab}\\Bootstrapper.exe\"  /uninstall"
+      },
+      {
+         "name":"RESONEManagement",
+         "version":"1.0.0.1",
+         "publisher":"RES Software",
+         "install_date":"20170814Z",
+         "install_source":"C:\\Users\\Mike\\OneDrive - RES\\Building Blocks\\TechSummitSchedule\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{509072E0-64F7-4B97-B561-8456858791E7}"
+      },
+      {
+         "name":"Apple Software Update",
+         "version":"2.3.0.177",
+         "publisher":"Apple Inc.",
+         "install_date":"20170425Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\IXP340.TMP\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{52D87F32-70E4-4348-8148-C0B9F35B1314}"
+      },
+      {
+         "name":"Python 3.6.4 pip Bootstrap (32-bit)",
+         "version":"3.6.4150.0",
+         "publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{54142B43-2FA5-4BBA-BF03-27C10EB50C1E}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{54142B43-2FA5-4BBA-BF03-27C10EB50C1E}"
+      },
+      {
+         "name":"Camtasia 9",
+         "version":"9.0.4.1948",
+         "publisher":"TechSmith Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{5957dd25-bb4e-4234-9dc0-b3e10a70f636}\\CamtasiaInstaller_ENU.exe\"  /uninstall"
+      },
+      {
+         "name":"Citrix Receiver Updater",
+         "version":"4.1.0.56461",
+         "publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{5E8AC853-65BB-4C99-A09E-19B81851E14C}"
+      },
+      {
+         "name":"Google Update Helper",
+         "version":"1.3.33.7",
+         "publisher":"Google Inc.",
+         "install_date":"20171226Z",
+         "install_source":"C:\\Program Files (x86)\\Google\\Update\\1.3.33.7\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}"
+      },
+      {
+         "name":"RES ONE Workspace Console",
+         "version":"10.1.0.0",
+         "publisher":"RES Software Development B.V.",
+         "install_date":"20170606Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Roaming\\RES Software Development B.V\\RES ONE Workspace Installer\\prerequisites\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{6C3683DE-A9F3-4BFA-BDF4-337860D52039}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2005 Redistributable",
+         "version":"8.0.56336",
+         "publisher":"Microsoft Corporation",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\IXP001.TMP\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{7299052b-02a4-4627-81f2-1818da5d550d}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24212",
+         "version":"14.0.24212",
+         "publisher":"Microsoft Corporation",
+         "install_date":"20170907Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{844ECB74-9B63-3D5C-958C-30BD23F19EE4}v14.0.24212\\packages\\vcRuntimeAdditional_x86\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{844ECB74-9B63-3D5C-958C-30BD23F19EE4}"
+      },
+      {
+         "name":"RES ONE Automation Console",
+         "version":"10.2.0.0",
+         "publisher":"RES Software Development B.V.",
+         "install_date":"20170606Z",
+         "install_source":"\\\\dc.resone.cloud\\c$\\Users\\Administrator\\Documents\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{8BC2DC01-91F6-4464-BBD5-5A41E3B13DE8}"
+      },
+      {
+         "name":".NET Core SDK 1.0.0 (x64) Installer (x64)",
+         "version":"1.0.0.4933",
+         "publisher":"Microsoft Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{8fe392bf-0b19-443f-adb7-e067b7449e99}\\dotnet-dev-win-x64.1.0.0-rc4-004933.exe\"  /uninstall"
+      },
+      {
+         "name":"Office 16 Click-to-Run Extensibility Component",
+         "version":"16.0.8431.2153",
+         "publisher":"Microsoft Corporation",
+         "install_date":"20180123Z",
+         "install_source":"c:\\program files (x86)\\microsoft office\\root\\integration\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{90160000-008C-0000-0000-0000000FF1CE}"
+      },
+      {
+         "name":"Office 16 Click-to-Run Localization Component",
+         "version":"16.0.8431.2079",
+         "publisher":"Microsoft Corporation",
+         "install_date":"20170918Z",
+         "install_source":"c:\\program files (x86)\\microsoft office\\root\\integration\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{90160000-008C-0409-0000-0000000FF1CE}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+         "version":"9.0.30729",
+         "publisher":"Microsoft Corporation",
+         "install_date":"20170411Z",
+         "install_source":"c:\\07fcfc999e138aefd4817144e0d6c59b\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{9A25302D-30C0-39D9-BD6F-21E6EC160475}"
+      },
+      {
+         "name":"Citrix Receiver(DV)",
+         "version":"14.1.0.0",
+         "publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{ADE8A83D-BB70-4FB5-BA19-26C47EA31894}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030",
+         "version":"11.0.61030",
+         "publisher":"Microsoft Corporation",
+         "install_date":"20170411Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{B175520C-86A2-35A7-8619-86DC379688B9}v11.0.61030\\packages\\vcRuntimeAdditional_x86\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{B175520C-86A2-35A7-8619-86DC379688B9}"
+      },
+      {
+         "name":"Python Launcher",
+         "version":"3.6.6196.0",
+         "publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{B42FF40A-60D4-4096-AC47-C86153D72797}v3.6.6196.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{B42FF40A-60D4-4096-AC47-C86153D72797}"
+      },
+      {
+         "name":"WiX Toolset v3.10 Core",
+         "version":"3.10.3007",
+         "publisher":".NET Foundation",
+         "install_date":"20170914Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{B516AA1C-8356-42F0-926A-8BC401FCD6CE}v3.10.3007\\data\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{B516AA1C-8356-42F0-926A-8BC401FCD6CE}"
+      },
+      {
+         "name":"Python 3.6.4 Add to Path (32-bit)",
+         "version":"3.6.4150.0",
+         "publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{B7F6071F-CC88-469C-9AC6-BEBA83594819}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{B7F6071F-CC88-469C-9AC6-BEBA83594819}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030",
+         "version":"11.0.61030",
+         "publisher":"Microsoft Corporation",
+         "install_date":"20170411Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}v11.0.61030\\packages\\vcRuntimeMinimum_x86\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}"
+      },
+      {
+         "name":"Python 3.6.4 Development Libraries (32-bit)",
+         "version":"3.6.4150.0",
+         "publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{C3797E33-967D-4687-8F1A-9DE771A00125}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{C3797E33-967D-4687-8F1A-9DE771A00125}"
+      },
+      {
+         "name":"Citrix Receiver (HDX Flash Redirection)",
+         "version":"14.1.0.0",
+         "publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{C4E28723-0663-4012-9BDC-E21A14C1316C}"
+      },
+      {
+         "name":"Citrix Authentication Manager",
+         "version":"5.1.0.62606",
+         "publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{CA55005D-94AC-4596-9646-679D6CC0D620}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+         "version":"11.0.61030.0",
+         "publisher":"Microsoft Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{ca67548a-5ebe-413a-b50c-4b9ceb6d66c6}\\vcredist_x64.exe\"  /uninstall"
+      },
+      {
+         "name":"Python 3.6.4 Utility Scripts (32-bit)",
+         "version":"3.6.4150.0",
+         "publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{D0730E44-E519-4F39-B926-E2FC0449D67C}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{D0730E44-E519-4F39-B926-E2FC0449D67C}"
+      },
+      {
+         "name":"Python 3.6.4 Test Suite (32-bit)",
+         "version":"3.6.4150.0",
+         "publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{D14FB2FA-51B2-415C-93BF-5053102235EE}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{D14FB2FA-51B2-415C-93BF-5053102235EE}"
+      },
+      {
+         "name":"Python 3.6.4 Core Interpreter (32-bit)",
+         "version":"3.6.4150.0",
+         "publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{D188614B-E656-4EF1-9F5A-23559EBE8F5A}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{D188614B-E656-4EF1-9F5A-23559EBE8F5A}"
+      },
+      {
+         "name":"WiX Toolset v3.10.3.3007",
+         "version":"3.10.3.3007",
+         "publisher":".NET Foundation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{d812c5ae-99d2-4e55-b7f0-d73e687f1069}\\WiX310.exe\"  /uninstall"
+      },
+      {
+         "name":"Citrix Receiver Inside",
+         "version":"4.1.0.56471",
+         "publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{D9EE360A-7C19-47EC-93C7-97DEFF64804B}"
+      },
+      {
+         "name":"Python 3.6.4 Documentation (32-bit)",
+         "version":"3.6.4150.0",
+         "publisher":"Python Software Foundation",
+         "install_date":"20180130Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Package Cache\\{E09874D3-E898-4AB6-B043-EE24DF786088}v3.6.4150.0\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{E09874D3-E898-4AB6-B043-EE24DF786088}"
+      },
+      {
+         "name":"AWS Tools for Windows",
+         "version":"3.9.339.0",
+         "publisher":"Amazon Web Services Developer Relations",
+         "install_date":"20171019Z",
+         "install_source":"C:\\Windows\\Installer\\{E9EB545F-6DB1-42BD-BDF2-C08D753C781B}-RESWIS\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{E9EB545F-6DB1-42BD-BDF2-C08D753C781B}"
+      },
+      {
+         "name":"Snagit 13",
+         "version":"13.1.2",
+         "publisher":"TechSmith Corporation",
+         "install_date":"20170427Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{EA84355E-0DCC-4A14-9ADC-FCF9ABF57EA8}v13.1.2\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{EA84355E-0DCC-4A14-9ADC-FCF9ABF57EA8}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+         "version":"10.0.40219",
+         "publisher":"Microsoft Corporation",
+         "install_date":"20170411Z",
+         "install_source":"c:\\0a203fa6d0b0e22ed348a4\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}"
+      },
+      {
+         "name":"Online Plug-in",
+         "version":"14.1.0.0",
+         "publisher":"Citrix Systems, Inc.",
+         "install_date":"20170411Z",
+         "install_source":"C:\\Users\\Mike\\AppData\\Local\\Temp\\Ctx-6FCF5B9E-8F65-4A58-BF26-52C82D6F918A\\Extract\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /I{F390D923-76F1-458E-8218-8C0C156CDCFD}"
+      },
+      {
+         "name":"Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+         "version":"12.0.30501.0",
+         "publisher":"Microsoft Corporation",
+         "install_date":null,
+         "install_source":null,
+         "install_location":null,
+         "uninstall_string":"\"C:\\ProgramData\\Package Cache\\{f65db027-aff3-4070-886a-0d87064aabb1}\\vcredist_x86.exe\"  /uninstall"
+      },
+      {
+         "name":"Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+         "version":"12.0.21005",
+         "publisher":"Microsoft Corporation",
+         "install_date":"20170411Z",
+         "install_source":"C:\\ProgramData\\Package Cache\\{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}v12.0.21005\\packages\\vcRuntimeAdditional_x86\\",
+         "install_location":null,
+         "uninstall_string":"MsiExec.exe /X{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}"
+      }
+   ],
+   "bios":{
+      "name":"90.1427.768",
+      "serial_number":"001894660357",
+      "version":"2000-01-01T00:00:00.000Z"
+   },
+   "os":{
+      "build_number":"+016299-01-01T00:00:00.000Z",
+      "name":"Microsoft Windows 10 Enterprise",
+      "CurrentTimeZone":-480,
+      "install_date":"20180129T0144090000Z",
+      "boot_time":"20180129T0904182545Z",
+      "manufacturer":"Microsoft Corporation",
+      "architecture":"64-bit",
+      "serial_number":"00329-10280-00000-AA070",
+      "service_pack":"0.0",
+      "system_device":"\\Device\\HarddiskVolume3",
+      "system_directory":"C:\\WINDOWS\\system32",
+      "system_drive":"C:",
+      "version":"10.0.16299",
+      "windows_directory":"C:\\WINDOWS"
+   },
+   "cpu":{
+      "name":"Intel(R) Core(TM) i7-6600U CPU @ 2.60GHz",
+      "processor_id":"BFEBFBFF000406E3",
+      "max_speed":2808,
+      "current_speed":2607,
+      "num_of_cores":2,
+      "device_id":"CPU0",
+      "current_voltage":9,
+      "socket_designation":"U3E1",
+      "status":"OK",
+      "thread_count":4,
+      "address_width":64,
+      "data_width":64,
+      "architecture":9
+   },
+   "_id":"5a7ad2fc61b2be247438c9b6",
+   "windows_features":null,
+   "__v":0
+}

@@ -2,9 +2,15 @@
 # vi: set ft=ruby :
 
 Vagrant.configure("2") do |config|
-  config.vm.box = "precise32"  
-  config.vm.box_url = "http://files.vagrantup.com/precise32.box"
+  config.vm.box = "ubuntu/trusty64"  
+  # Java 8
   config.vm.provision :shell, :path => "bootstrap.sh"
+  # config.vm.provision :shell, :path => "node-bootstrap.sh"
   config.vm.network :forwarded_port, guest: 9200, host: 9200
+
+  config.vm.provider "virtualbox" do |v|
+    v.memory = 8192
+    v.gui = true
+  end
 end
 
