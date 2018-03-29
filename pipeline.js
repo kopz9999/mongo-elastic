@@ -1,7 +1,7 @@
 var source = mongodb({
   "uri": "mongodb://localhost/test"
   // "timeout": "30s",
-  // "tail": false,
+  "tail": true,
   // "ssl": false,
   // "cacerts": ["/path/to/cert.pem"],
   // "wc": 1,
