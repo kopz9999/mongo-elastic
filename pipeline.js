@@ -1,5 +1,5 @@
 var source = mongodb({
-  "uri": "${MONGODB_URI}"
+  "uri": "mongodb://localhost/test"
   // "timeout": "30s",
   // "tail": false,
   // "ssl": false,
@@ -12,11 +12,15 @@ var source = mongodb({
 })
 
 var sink = elasticsearch({
-  "uri": "${ELASTICSEARCH_URI}"
+  "uri": "http://localhost:9200/things"
   // "timeout": "10s", // defaults to 30s
   // "aws_access_key": "ABCDEF", // used for signing requests to AWS Elasticsearch service
   // "aws_access_secret": "ABCDEF" // used for signing requests to AWS Elasticsearch service
   // "parent_id": "elastic_parent" // defaults to "elastic_parent" parent identifier for Elasticsearch
 })
 
-t.Source("source", source, "/.*/").Save("sink", sink, "/.*/")
+
+
+t.Source("source", source, "/.*/")
+  .Transform(goja({"filename":"./transform.js"}))
+  .Save("sink", sink, "/.*/")
