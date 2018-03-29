@@ -1,4 +1,4 @@
-# Project Title
+# Mongo ElasticSearch ETL example
 
 This project shows an example of syncing a mongo with ElasticSearch with `transporter`
 
